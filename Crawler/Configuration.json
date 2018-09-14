@@ -1,0 +1,457 @@
+﻿[
+  {
+    "MerchantNamePattern": "Furla",
+    "ItemPattern": "{\"id\":\\d+,\"nation\":\"(.*?)\",\"type\":\"(.*?)\",\"city\":\"(.*?)\",\"address\":\"(.*?)\",\"tel\":\"(.*?)\",\"icon\":\".*?\",\"link\":\"(.*?)\",\"latitude\":(.+?),\"longitude\":(.+?)}",
+    "StartUrl": "https://www.furla.com/us/en/stores/",
+    "JsonIndexs": "-1,-1,1,3,4,7,8,-1,5,2,-1,-1,6,-1",
+    "SiteUrlPattern": "https://www.furla.com/us/en/store/{link}/",
+    "CategoryPattern": "服饰鞋包",
+    "HashCode": 0,
+    "OpenHoursPattern": "<strong>\\s*?Hours<\\/strong>:(.+?)<br\\/>"
+  },
+  {
+    "MerchantNamePattern": "H&M",
+    "ItemPattern": "{\"storeId\":\".+?\",\"name\":\"(.+?)\",\"city\":\"(.+?)\",\"country\":\"(.+?)\",.+?phone\":\"(.*?)\",.+?openingHours\":{\"openingHour\":(?:\\[)?\"(.+?)\"(?:\\])?},.+?address\":{\"addressLine\":(?:\\[)?\"(.+?)\"(?:\\])?},\"longitude\":(.+?),\"latitude\":(.+?)}",
+    "StartUrl": "http://www2.hm.com/rest/storelocator/locations/1.0/locale/en_GB/countries/?_type=json",
+    "JsonIndexs": "-1,1,3,2,6,7,8,5,4,-1,-1,-1,-1,-1",
+    "HashCode": 4,
+    "UrlParams": [
+      {
+        "Item1": "code",
+        "Item2": "\"countryId\":\"(.+?)\"",
+        "Item3": 1
+      }
+    ],
+    "SiteUrlPattern": "http://www2.hm.com/rest/storelocator/stores/1.0/locale/en_GB/country/{code}?_type=json",
+    "CategoryPattern": "服饰鞋包",
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "永旺百货",
+    "ItemPattern": "<div class=\"shoplist\">\\s+?<input type=\"hidden\"\\s+?data-name=\"(.+?)\"\\s+?data-address=\"(.+?)\"\\s+?data-id=\"\\d+\"\\s+?data-category=\".+?\">\\s+?<p.+?><a onclick=\"map.setCenter\\(new google.maps.LatLng\\((.+?),(.+?)\\).+?\\/p>\\s+?<div>\\s+?<ul>\\s+?<li>.*?<\\/li>\\s+?<li>營業時間<br \\/>(.+?)<\\/li>\\s+?<li>電話<br \\/>(.+?)<\\/li>\\s+?<\\/ul>\\s+?<dl.+?>\\s+?<dt.+?>\\s+?<dd>\\s+?((?:<span.+?\\/span>\\s+?){10,11})<\\/dd>",
+    "StartUrl": "https://www.aeonstores.com.hk/shop_info/map",
+    "JsonIndexs": "-1,1,-1,-1,2,4,3,5,6,-1,-1,-1,-1,7",
+    "CategoryPattern": "综合商场",
+    "CountryPattern": "China",
+    "CityPattern": "HongKong&Macao",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "屈臣氏",
+    "ItemPattern": "<div class=\"address-box\".+?data-lat=\"(.+?)\"\\s+?data-lng=\"(.+?)\" data-store-name=\"(.+?)\"[\\s\\S]*?<div class=\"h2\">(.+?)<\\/div>[\\s\\S]*?<div class=\"store-details old-format-opening-hours\">([\\s\\S]*?)<div class=\"expand\">",
+    "StartUrl": "https://www.watsons.com.hk/storeLocator",
+    "JsonIndexs": "-1,3,-1,-1,4,2,1,5,-1,-1,-1,-1,3,-1",
+    "CategoryPattern": "化妆品",
+    "SiteUrlPattern": "https://www.watsons.com.hk/storeLocator#StoreDetail-{name}",
+    "CountryPattern": "China",
+    "CityPattern": "HongKong&Macao",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "屈臣氏",
+    "ItemPattern": "<DIV class=address-box data-lng=\"(.+?)\" data-lat=\"(.+?)\".+?>[\\s\\S]*?<FONT class=resultShopName>(.+?)<\\/FONT><\\/DIV>\\s+?<DIV class=h2>([\\s\\S]*?)<FONT class=shopPostCode>.+?<\\/FONT><BR><SPAN>(.+?)<\\/SPAN>(?:<BR><I.+?\\/I>\\s*?<A href=.+?>(.+?)<\\/A>\\s*?)?<\\/DIV>[\\s\\S]*?<DIV class=show-map-detail><A href=\"(.+?)\">.+?<\\/A>",
+    "JsonIndexs": "-1,3,-1,-1,4,1,2,5,6,-1,-1,-1,7,-1",
+    "CategoryPattern": "化妆品",
+    "CountryPattern": "Thailand",
+    "CityPattern": "",
+    "StartNumber": 1,
+    "SiteUrlPattern": "https://www.watsons.co.th/store-finder/getPartialStore?currentPage={0}&town=&district=&features=&keyword=",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser",
+      "IHtmlReader": "JsHtml",
+      "IPageReader": "Total"
+    }
+  },
+  {
+    "MerchantNamePattern": "屈臣氏",
+    "ItemPattern": "<div class=\"address-box\".+? data-lat=\"(.+?)\" data-lng=\"(.+?)\">[\\s\\S]*?<font class=\"resultShopName\">(.+?)<\\/font><\\/div>\\s+?<div class=\"h2\">([\\s\\S]*?)<font class=\"shopPostCode\">.+?<\\/font><br>\\s+?(?:<span>|<br>)([\\s\\S]*?)(?:<\\/span>)?\\s+?(?:<br>\\s+?<i.+?\\/i>\\s*?<a href=.+?>(.+?)<\\/a>\\s*?)?<\\/div>[\\s\\S]*?div class=\"show-map-detail\">\\s+?<a href=\"(.+?)\">.+?<\\/a>",
+    "JsonIndexs": "-1,3,-1,-1,4,2,1,5,6,-1,-1,-1,7,-1",
+    "CategoryPattern": "化妆品",
+    "CountryPattern": "China",
+    "CityPattern": "TaiWan",
+    "StartNumber": 1,
+    "SiteUrlPattern": "https://www.watsons.com.tw/store-finder/getPartialStore?currentPage={0}&town=&district=&features=&keyword=",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser",
+      "IPageReader": "Total"
+    }
+  },
+  {
+    "MerchantNamePattern": "屈臣氏",
+    "ItemPattern": "<div class=\"address-box\".+? data-lat=\"(.+?)\" data-lng=\"(.+?)\">[\\s\\S]*?>[\\s\\S]*?<font class=\"resultShopName\">(.+?)<\\/font><\\/div>\\s+?<div class=\"h2\">([\\s\\S]*?)<font class=\"shopPostCode\">.+?<\\/font><br>\\s+?(?:<br>\\s+?<i.+?\\/i>\\s*?<a href=.+?>(.+?)<\\/a>\\s*?)?<\\/div>[\\s\\S]*?div class=\"show-map-detail\">\\s+?<a href=\"(.+?)\">.+?<\\/a>",
+    "JsonIndexs": "-1,3,-1,-1,4,2,1,-1,5,-1,-1,-1,6,-1",
+    "CategoryPattern": "化妆品",
+    "CountryPattern": "Malaysia",
+    "CityPattern": "",
+    "StartNumber": 1,
+    "SiteUrlPattern": "https://www.watsons.com.my/store-finder/getPartialStore?currentPage={0}&town=&district=&features=&keyword=",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser",
+      "IPageReader": "Total"
+    }
+  },
+  {
+    "MerchantNamePattern": "屈臣氏",
+    "ItemPattern": "<li data-id.+?\\s+?data-longitude=\"(.+?)\"\\s+?data-latitude=\"(.+?)\"\\s+?data-seo-name.+?\\s+?data-name=\"(.+?)\"\\s+?data-city=\"(.+?)\"[\\s\\S]*?<p class=\"address\">\\s+?(.+?)\\s+?<span[\\s\\S]*?<p class=\"working-hours\"><strong>(.*?)<\\/strong><\\/p>\\s+?<p class=\"phone\">Tel : <a href=.+?>(.*?)<\\/a>",
+    "StartUrl": "http://www.watsons.com.tr/sayfalar/magazalarimiz",
+    "JsonIndexs": "-1,3,-1,4,5,1,2,6,7,-1,-1,-1,-1,-1",
+    "CategoryPattern": "化妆品",
+    "CountryPattern": "Turkey",
+    "CityPattern": "",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "麦当劳",
+    "ItemPattern": "{\"name\":\"(.+?)\",\"longitude\":(.+?),\"latitude\":(.+?),.+?\"telephone\":\"(.*?)\",.+?\"addresses\":\\[{\"address\":\"<h3>.+?h3><p>(.+?)<\\\\/p>\"}\\].*?(?:\"timeings\":\\[(.+?)\\].*?)?\"statusrest\":\"OPEN\"}",
+    "StartUrl": "http://www.mcdonalds.com.hk/googleapps/GoogleHongKongSearchAction.do?method=searchLocation&searchTxtLatlng=(22.25%2C%20114.16669999999999)&actionType=searchRestaurant&country=hk&language=zh",
+    "JsonIndexs": "-1,1,-1,-1,5,2,3,6,4,-1,-1,-1,-1,-1",
+    "CountryPattern": "China",
+    "CityPattern": "HongKong&Macao",
+    "CategoryPattern": "其他小吃快餐",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "麦当劳",
+    "ItemPattern": "{\"name\": \"(.+?)\",.+?\"address\": \"(.+?)\", \"latitude\": (.+?),.+?\"longitude\": (.+?)}",
+    "StartUrl": "https://map.mcdonalds.co.jp/api/poi?bounds=-11.17840187371178,33.75,70.61261423801925,-123.75",
+    "JsonIndexs": "-1,1,-1,-1,2,3,4,-1,-1,-1,-1,-1,-1,-1",
+    "CountryPattern": "Japan",
+    "CityPattern": "",
+    "CategoryPattern": "其他小吃快餐",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "麦当劳",
+    "ItemPattern": "{\"name\":\".+?\",.+?\"location\":{\"latitude\":(.+?),\"longitude\":(.+?)}.+?\"description\":\".+?\",.+?\"contact_number\":\"(.*?)\",(?:\"working_day\":\".*?\",)?.*?\"name_en\":\"(.*?)\",\"description_en\":\"(.+?)\",\"working_day_en\":\"(.*?)\",.*?\"Website\":null}",
+    "StartUrl": "https://api.buzzebees.com/api/place/?device_app_id=682039088498074&agencyId=8510&require_campaign=false&top=1000",
+    "JsonIndexs": "-1,4,-1,-1,5,2,1,6,3,-1,-1,-1,-1,-1",
+    "CountryPattern": "Thailand",
+    "CityPattern": "",
+    "CategoryPattern": "其他小吃快餐",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "麦当劳",
+    "ItemPattern": "{\"id\":\"\\d+\",\"name\":\"(.+?)\",\"address\":\"(.+?)\",.+?\"lat\":\"(.+?)\",\"long\":\"(.+?)\",\"op_hours\":\"(.+?)\",(?:\"phone\":\"(.+?)\",)?.+?zip\":\"\\d*\"}",
+    "StartUrl": "https://www.mcdonalds.com.sg/wp/wp-admin/admin-ajax.php?action=store_locator_locations",
+    "JsonIndexs": "-1,1,-1,-1,2,4,3,5,6,-1,-1,-1,-1,-1",
+    "CountryPattern": "Singapore",
+    "CityPattern": "",
+    "CategoryPattern": "其他小吃快餐",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "麦当劳",
+    "ItemPattern": "{\"geometry\":{\"coordinates\":\\[(.+?),(.+?)\\]}.+?\"addressLine1\":\"(.+?)\",\"addressLine2\":\".+?\",\"addressLine3\":\"(.+?)\",\"addressLine4\":\"(.*?)\",\"subDivision\":\"(.*?)\",.+?\"telephone\":\"(.*?)\",\"restauranthours\":{\"(.+?)\"}",
+    "StartUrl": "https://www.mcdonalds.com/googleapps/GoogleRestaurantLocAction.do?method=searchLocation&latitude=41.2565369&longitude=-95.93450339999998&radius=100000&maxResults=100000&country=us&language=en-us&showClosed=&hours24Text=Open%2024%20hr",
+    "JsonIndexs": "-1,-1,5,4,3,1,2,8,7,-1,-1,-1,-1,-1",
+    "CountryPattern": "USA",
+    "CityPattern": "",
+    "CategoryPattern": "其他小吃快餐",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "麦当劳",
+    "ItemPattern": "<li>\\s+?<div class=\"detail\">\\s+?<dl.+?>\\s+?<dt><a href.+?moveMap\\('(.+?)','(.+?)'\\).+?\\/>(.+?)<\\/a><\\/dt>\\s+?<dd>([\\s\\S]+?)\\s+?<\\/dd>\\s+?<dd>(.+?)<\\/dd>[\\s\\S]+?<tbody>\\s+?<tr>\\s+?<td>\\s+?(.+?)\\s+?<\\/td>",
+    "StartUrl": "http://www.mcdonalds.co.kr/www/eng/findus/district.do",
+    "JsonIndexs": "-1,3,-1,-1,5,1,2,6,4,-1,-1,-1,-1,-1",
+    "CountryPattern": "Korea",
+    "CityPattern": "",
+    "CategoryPattern": "其他小吃快餐",
+    "SiteUrlPattern": "http://www.mcdonalds.co.kr/www/eng/findus/district.do?pageIndex={0}&sSearch_yn=Y&skey=1&skey1={address}",
+    "StartNumber": 1,
+    "UrlParams": [
+      {
+        "Item1": "address",
+        "Item2": "//select[@id=\"skey1\"]//option[position()>1]//text()",
+        "Item3": 1
+      }
+    ],
+    "CustomProcessors": {
+      "IPageParser": "JsonParser",
+      "IPageReader": "ParamPage",
+      "IHtmlReader": "UserAgent"
+    }
+  },
+  {
+    "MerchantNamePattern": "雪冰",
+    "ItemPattern": "<li>\\s+?<a.+?lx = \"(.+?)\" ly = \"(.+?)\">\\s+?<h5>(.+?)<\\/h5>\\s+?<span>(.+?)<\\/span>\\s+?<em>(.*?) \\/ (.*?)<\\/em>",
+    "JsonIndexs": "-1,3,-1,-1,4,1,2,6,5,-1,-1,-1,-1,-1",
+    "SiteUrlPattern": "http://cn.sulbing.com/bbs/board.php?bo_table=store&page={0}",
+    "CategoryPattern": "其他面包甜点",
+    "CountryPattern": "Korea",
+    "HashCode": 2,
+    "StartNumber": 1,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "老佛爷",
+    "ItemPattern": "[^/]\\['(.+?)', '(.+?)', '(.+?)', '(.+?)', '(?:Telephone|Téléphone) : (.+?)', '(.+?)'\\]",
+    "JsonIndexs": "-1,1,-1,-1,2,4,3,-1,-1,-1,-1,-1,6,-1",
+    "StartUrl": "http://www.galerieslafayette.com/i/wp-content/themes/galerieslafayette/gl_map.php",
+    "SiteUrlPattern": "http://www.galerieslafayette.com{link}",
+    "CategoryPattern": "综合商场",
+    "TelphonePattern": "Téléphone<\\/b> :(.+?)<\\/p>",
+    "OpenHoursPattern": "Horaires<\\/p><table>([\\s\\S]+?)<\\/table>",
+    "HashCode": 0
+  },
+  {
+    "MerchantNamePattern": "肯德基",
+    "ItemPattern": ".+?\\.name='(.+?)';\\s+?.+?\\.address='(.+?)';\\s+?.+?\\.openingtime.push\\('(.+?)'\\);.*?\\s+?(?:.+?\\.openingtime.push\\('(.+?)'\\);\\s+?)?.+?tel.push\\('(.+?)'\\);",
+    "JsonIndexs": "-1,1,-1,-1,2,-1,-1,3,5,-1,-1,-1,-1,-1",
+    "StartUrl": "https://www.kfchk.com/filemanager/system/tc/js/restaurant.js",
+    "CategoryPattern": "其他小吃快餐",
+    "CountryPattern": "China",
+    "CityPattern": "HongKong&Macao",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "蟹道乐",
+    "ItemPattern": "<li><!--cltx--><a href=\"(.+?)\">(.+?[店馆館])<\\/a><\\/li>",
+    "JsonIndexs": "-1,2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,-1",
+    "StartUrl": "http://douraku.co.jp.c.at.hp.transer.com/",
+    "CategoryPattern": "海鲜",
+    "CountryPattern": "Japan",
+    "AddressPattern": "地址<\\/th>\\s+?<td><!--cltx-->(.+?)<\\/td>",
+    "TelphonePattern": "(?:电话号码|自由的访问)<\\/th>\\s+?<td><!--cltx-->(?:<b>)?<span.+?>([\\d-]+?)[\\D]*?<\\/span>(?:<\\/b>)?<\\/td>",
+    "OpenHoursPattern": "营业时间<\\/th>\\s+?<td>\\s*?<!--cltx-->(.+?)<\\/td>",
+    "LongitudePattern": "(?:&ll=.+?,|@.+?,)(.+?)(?:,|&)",
+    "LatitudePattern": "(?:&ll=|@)(.+?),",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IHtmlReader": "JsHtml"
+    }
+  },
+  {
+    "MerchantNamePattern": "肯德基",
+    "ItemPattern": "{\"shop_id\":(.+?),\"name\":\"(.+?)\",\"latitude\":(.+?),\"longitude\":(.+?),.+?city\":\"(.+?)\",\"address\":\"(.+?)\",.+?tel_number\":\"(.+?)\",.+?business_hours_info\":\"(.+?)\",.+?\"delivery_kfc\":\\d}",
+    "JsonIndexs": "-1,2,-1,5,6,4,3,8,7,-1,-1,-1,1,-1",
+    "StartUrl": "https://www.kfc.co.jp/search/",
+    "SiteUrlPattern": "https://www.kfc.co.jp/api/?p=shop.search&{link}&pref=01&limit=9999&ver=2",
+    "CategoryPattern": "其他小吃快餐",
+    "StartNumber": 1,
+    "UrlParams": [
+      {
+        "Item1": "link",
+        "Item2": "<li><a href=\"\\/search\\/fuken.html\\?(.+?)\">.+?<\\/a><\\/li>",
+        "Item3": 1
+      }
+    ],
+    "CountryPattern": "Japan",
+    "CityPattern": "",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageReader": "Param",
+      "IItemReader": "JapanKFC",
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "肯德基",
+    "ItemPattern": "{\"id\":\\d+,\"latitude\":(.+?),\"longitude\":(.+?),\"name\":\"(.+?)\",\"address\":\"(.+?)\",\"phone\":\"(.*?)\",\"open24h\":(.*?),.+?\"weekdayopen\":\"(.*?)\",\"weekdayclose\":\"(.*?)\",\"weekendopen\":\"(.*?)\",\"weekendclose\":(?:\")?(.*?)(?:\")?,\"linkname\":\"(.*?)\".*?}",
+    "JsonIndexs": "-1,3,-1,-1,4,2,1,6,5,-1,-1,-1,11,-1",
+    "StartUrl": "https://kfc.com.my/find-a-kfc/",
+    "CategoryPattern": "其他小吃快餐",
+    "CountryPattern": "Malaysia",
+    "CityPattern": "",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IItemReader": "JapanKFC",
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "康是美",
+    "ItemPattern": "門市名稱<\\/td>\\s+?<td.+?><a href=\"(.+?)\">(.+?)<\\/a>[\\s\\S]+?門市地址<\\/td>\\s+?<td.+?>(.+?)<\\/td>[\\s\\S]+?門市電話<\\/td>\\s+?<td.+?>(.+?)<\\/td>[\\s\\S]+?營業時間<\\/td>\\s+?<td.+?>(.+?)<\\/td>",
+    "JsonIndexs": "-1,2,-1,-1,3,-1,-1,5,4,-1,-1,-1,1,-1",
+    "SiteUrlPattern": "https://www.cosmed.com.tw/Contact/Shop_list.aspx?pg={0}&City=&District=&ID=&KeyWord=&Shop=",
+    "CategoryPattern": "化妆品",
+    "StartNumber": 1,
+    "LongitudePattern": "google.maps.LatLng\\(.+?, (.+?)\\)",
+    "LatitudePattern": "google.maps.LatLng\\((.+?), .+?\\)",
+    "CountryPattern": "China",
+    "CityPattern": "TaiWan",
+    "HashCode": 2
+  },
+  {
+    "MerchantNamePattern": "家乐福",
+    "ItemPattern": "\\['(.+?)','(.+?)','.*?','.*?','<p>(.+?)'\\]",
+    "JsonIndexs": "-1,1,-1,-1,2,-1,-1,-1,3,-1,-1,-1,-1,-1",
+    "StartUrl": "http://www.carrefour.co.id/id/storelocator/",
+    "CategoryPattern": "超市便利",
+    "CountryPattern": "Indonesia",
+    "CityPattern": "",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "家乐福",
+    "ItemPattern": "{\"Id\":\"(.+?)\".+?分店中文名稱\":\"(.+?)\",.+?\"電話號碼\":\"(.*?)\",.+?\"營業時間\":\"(.*?)\".+?\"地址\":\"(.+?)\",\"Longitude\":(.+?),\"Latitude\":(.+?),\"分店地圖\"",
+    "JsonIndexs": "-1,2,-1,-1,5,6,7,4,3,-1,-1,-1,1,-1",
+    "StartUrl": "https://www.carrefour.com.tw/api/Store",
+    "CategoryPattern": "超市便利",
+    "CountryPattern": "TaiWan",
+    "CityPattern": "",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IItemReader": "JapanKFC",
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "YSL",
+    "ItemPattern": "<div class=\"location_item_detail\" data-address=\"(.+?)\" data-phone=\"(.*?)\" data-oh=\"(.*?)\" data-latitude=\"(.*?)\" data-longitude=\"(.*?)\".+?data-title=\"(.*?)\">",
+    "JsonIndexs": "-1,6,-1,-1,1,5,4,3,2,-1,-1,-1,-1,-1",
+    "StartUrl": "https://www.yslbeauty.com.hk/tc/location/",
+    "CategoryPattern": "奢侈品",
+    "CountryPattern": "China",
+    "CityPattern": "HongKong&Macao",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "华伦天奴",
+    "ItemPattern": "{\"storeId\":.*?,\"storeNumber\":\"(.*?)\",.*?longitude\":(.*?),\"latitude\":(.*?)}.*?openingTimes\":\\[(.*?)\\],.*?storeName\":\"(.*?)\",\"address\":{\"line1\":\"(.*?)\",\"city\":\"(.*?)\",.*?\"countryCode\":\"(.*?)\",\"countryName\":\"(.*?)\",.*?\"phone1\":\"(.*?)\"}}",
+    "JsonIndexs": "-1,5,9,7,6,2,3,4,10,-1,-1,-1,1,-1",
+    "StartUrl": "https://www.valentino.com/Countries/index",
+    "CategoryPattern": "奢侈品",
+    "CityPattern": "",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IHtmlReader": "Valentino",
+      "IPageReader": "Valentino",
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "Fendi",
+    "ItemPattern": "{\"name\":.*?fendiUrlAltText\"",
+    "StartUrl": "https://www.fendi.com/us/store-locator?listJson=true&country-selectize=&fendiType=BOUTIQUE&service=&line=&xlat=-89.94103949191913&xlng=-180&ylat=89.95149907077088&ylng=180",
+    "JsonIndexs": "-1,1,5,4,6,3,2,99,99,7,-1,-1,-1,-1",
+    "HashCode": 0,
+    "CategoryPattern": "奢侈品",
+    "CustomProcessors": {
+      "IPageParser": "JsonParser",
+      "IItemReader": "Fendi"
+    }
+  },
+  {
+    "MerchantNamePattern": "Coach",
+    "ItemPattern": "<DIV class=\"row visible-xs\">\\s+?<H2>(.*?)\\s+?<UL[\\s\\S]+?<SPAN itemprop=\"streetAddress\">(.+?)<BR>.*?<SPAN itemprop=\"addressLocality\">(.*?)<\\/SPAN>.*?itemprop=\"telephone\">(.*?)<\\/SPAN>[\\s\\S]*?<META content=\"(.*?)\" itemprop=\"addressCountry\">[\\s\\S]*?<SPAN itemprop=\"openingHours\">(.*?)<BR>[\\s\\S]*?<A title=Directions.*?data=\"(.*?)\">",
+    "StartUrl": "",
+    "JsonIndexs": "-1,1,5,3,2,-1,-1,6,4,-1,-1,-1,7,-1",
+    "HashCode": 2,
+    "StartNumber": 0,
+    "PageStepNumber": 10,
+    "SiteUrlPattern": "https://www.coach.com/on/demandware.store/Sites-Coach_US-Site/en_US/Stores-FilterResult?firstQuery=0_latitude&secondQuery=0_longitude&showRFStoreDivider=true&showRStoreDivider=true&showFStoreDivider=false&showDStoreDivider=false&start={0}&sz=10&format=ajax",
+    "CategoryPattern": "服饰鞋包",
+    "CustomProcessors": {
+      "IPageParser": "JsonParser",
+      "IHtmlReader": "JsHtml"
+    }
+  },
+  {
+    "MerchantNamePattern": "YSL",
+    "ItemPattern": "<div>[\\s\\S]+?<dt>(.*?)<\\/dt>\\s+?<dd>(.*?)<br><span>TEL:(.*?)<\\/span>[\\s\\S]*?ll=(.*?),(.*?)&",
+    "JsonIndexs": "-1,1,-1,-1,2,5,4,-1,3,-1,-1,-1,-1,-1",
+    "StartUrl": "https://www.yslb.jp/?s=store/index&page=tokyo",
+    "CategoryPattern": "奢侈品",
+    "CountryPattern": "Japan",
+    "CityPattern": "",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "YSL",
+    "ItemPattern": "{\"ID\":.*?\"distance\":false}",
+    "JsonIndexs": "-1,1,99,99,4,99,99,5,99,3,-1,-1,2,-1",
+    "StartUrl": "https://www.ysl.com/corporate/us/?yoox_storelocator_action=true&action=yoox_storelocator_get_all_stores",
+    "CategoryPattern": "奢侈品",
+    "CountryPattern": "",
+    "CityPattern": "",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IItemReader": "YSLGlobal",
+      "IPageParser": "JsonParser"
+    }
+  },
+  {
+    "MerchantNamePattern": "Sephora",
+    "ItemPattern": "<li><a href=\"(.+?)\" class=\"(.+?)\">(.+?)<\\/a><\\/li>",
+    "JsonIndexs": "-1,3,-1,-1,-99,-1,-1,-99,-99,-1,-1,-1,1,-1",
+    "StartUrl": "https://www.sephora.com/storelist",
+    "CategoryPattern": "化妆品",
+    "CountryPattern": "USA",
+    "CityPattern": "",
+    "AddressPattern": "<li class=\"store-address1\">([\\s\\S]*?)<li class=\"phone\">",
+    "TelphonePattern": "Phone:(.+?)<\\/li>",
+    "OpenHoursPattern": "HOURS<\\/li>([\\s\\S]*?)<\\/ul>",
+    "LongitudePattern": "<div class=\"storehq-detail\".*?data-lat=\"(.*?)\"",
+    "LatitudePattern": "<div class=\"storehq-detail\".*?data-lng=\"(.*?)\"",
+    "HashCode": 0,
+    "CustomProcessors": {
+      "IPageParser": "Default"
+    }
+  },
+  {
+    "MerchantNamePattern": "PUMA",
+    "ItemPattern": "({\"name\":(.*?),\"add1\":(.*?),\"add2\":(.*?),\"city\":(.*?),\"state\":(.*?),.*?,\"lat\":(.*?),\"lng\":(.*?),.*?,\"phone\":(.*?),.*?\"hours\":(.*?),.*?\"country\":(.*?).*?})]*?",
+    "JsonIndexs": "-1,1,99,4,2,6,7,9,8,-99,-99,-99,-99,-99",
+    "StartUrl": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine={0}&f=json&outFields=*",
+    "SiteUrlPattern": "https://destinilocators.com/control/9.0.3/panel2Connect.php",
+    "CategoryPattern": "服饰鞋包",
+    "HashCode": 0,
+    "UrlParams": [
+      {
+        "Item1": "countrycode",
+        "Item2": "\"location\":{\"x\":(.+?),\"y\":(.+?)}",
+        "Item3": 1
+      }
+    ],
+    "CustomProcessors": {
+      "IItemReader": "PumaReader",
+      "IPageReader": "Puma",
+      "IPageParser": "JsonParser"
+    }
+  }
+]

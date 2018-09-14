@@ -1,0 +1,4329 @@
+2018-09-08 09:17:36,377 [1] INFO  logInstance logInstancename 
+  Starting crawler for PUMA
+   
+2018-09-08 09:54:36,482 [1] INFO  logInstance logInstancename 
+  Parsing https://www.yslbeauty.com.hk/tc/location/
+   
+2018-09-08 10:14:03,334 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:19,700 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:21,506 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:23,301 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:26,168 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:35,113 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:37,946 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:39,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:41,327 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:42,638 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:43,893 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:45,104 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:46,401 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:47,605 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:48,871 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:14:55,848 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:15:00,011 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:15:03,531 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:15:07,047 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:15:08,938 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:15:10,540 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:19:19,240 [1] INFO  logInstance logInstancename 
+  Crawling PUMA done.
+   
+2018-09-08 10:26:18,720 [1] INFO  logInstance logInstancename 
+  Starting crawler for 家乐福
+   
+2018-09-08 10:26:18,910 [1] INFO  logInstance logInstancename 
+  Parsing http://www.carrefour.co.id/id/storelocator/
+   
+2018-09-08 10:26:19,944 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,944 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,945 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,946 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,946 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,946 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,946 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,946 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,946 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,946 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,946 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,946 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,946 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,946 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,947 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,947 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,947 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,947 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,948 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,948 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,948 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,949 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,949 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,950 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,950 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,951 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,952 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,952 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,954 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,955 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,955 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,956 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,957 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,957 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,957 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,958 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,958 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,959 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,959 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,959 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,960 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,960 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,960 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,961 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,962 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,962 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,962 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,964 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,965 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,965 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,966 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,966 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,967 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,967 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,968 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,968 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,968 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,969 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,970 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,970 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,971 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,971 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,972 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,972 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,972 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,974 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,974 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:19,975 [1] INFO  logInstance logInstancename 
+  Getting 
+   
+2018-09-08 10:26:20,348 [1] INFO  logInstance logInstancename 
+  Crawling 家乐福 done.
+   
+2018-09-08 10:34:13,915 [1] INFO  logInstance logInstancename 
+  Starting crawler for 肯德基
+   
+2018-09-08 10:34:14,054 [1] INFO  logInstance logInstancename 
+  Parsing https://kfc.com.my/find-a-kfc/
+   
+2018-09-08 10:34:47,289 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_baru_farlim
+   
+2018-09-08 10:34:47,289 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_baru_nilai
+   
+2018-09-08 10:34:47,289 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_baru_saujana
+   
+2018-09-08 10:34:47,289 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_baru_selayang
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_darul_aman_jaya_jitra
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_enstek_nilai
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_muadzam_shah
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_serdang_kedah
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_seri_permaisuri_cheras
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_seri_putra_bangi
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_sg_long
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_sri_perdana_lahad_datu
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_tasik_selatan_(tbs)
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_tenggara
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_utama
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandaran_berjaya
+   
+2018-09-08 10:34:47,290 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandaran_kk_utara_drive_thru
+   
+2018-09-08 10:34:47,291 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bangi_utama
+   
+2018-09-08 10:34:47,291 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/banting_2
+   
+2018-09-08 10:34:47,291 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batang_kali
+   
+2018-09-08 10:34:47,291 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_berendam
+   
+2018-09-08 10:34:47,291 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_gajah
+   
+2018-09-08 10:34:47,291 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_kawah
+   
+2018-09-08 10:34:47,291 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_lanchang
+   
+2018-09-08 10:34:47,291 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_niah
+   
+2018-09-08 10:34:47,291 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_pahat_1
+   
+2018-09-08 10:34:47,291 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_pahat_drive_thru
+   
+2018-09-08 10:34:47,291 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_pahat_mall
+   
+2018-09-08 10:34:47,291 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bau
+   
+2018-09-08 10:34:47,292 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bayan_baru
+   
+2018-09-08 10:34:47,292 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/beaufort
+   
+2018-09-08 10:34:47,292 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bemban_jasin
+   
+2018-09-08 10:34:47,292 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bentong
+   
+2018-09-08 10:34:47,293 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/benut
+   
+2018-09-08 10:34:47,293 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bercham
+   
+2018-09-08 10:34:47,293 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/berjaya_times_square
+   
+2018-09-08 10:34:47,293 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/betong
+   
+2018-09-08 10:34:47,293 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bhp_tanjung_malim
+   
+2018-09-08 10:34:47,294 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bidor
+   
+2018-09-08 10:34:47,294 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bintang_plaza
+   
+2018-09-08 10:34:47,294 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bintulu_2
+   
+2018-09-08 10:34:47,294 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bornion_centre
+   
+2018-09-08 10:34:47,294 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/boulevard
+   
+2018-09-08 10:34:47,295 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/boulevard_mall
+   
+2018-09-08 10:34:47,295 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/boulevard_mall_lintas
+   
+2018-09-08 10:34:47,295 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/brinchang_cameron
+   
+2018-09-08 10:34:47,295 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_bintang
+   
+2018-09-08 10:34:47,295 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_gambir
+   
+2018-09-08 10:34:47,296 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_jambul
+   
+2018-09-08 10:34:47,296 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_jelutong
+   
+2018-09-08 10:34:47,296 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_kemuning_drive_thru
+   
+2018-09-08 10:34:47,296 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_mertajam_drive_thru
+   
+2018-09-08 10:34:47,296 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_pasir_bp3
+   
+2018-09-08 10:34:47,297 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_raja
+   
+2018-09-08 10:34:47,297 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_sentosa_rawang
+   
+2018-09-08 10:34:47,297 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/butterworth
+   
+2018-09-08 10:34:47,297 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_ampang
+   
+2018-09-08 10:34:47,297 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_bukit_rimau
+   
+2018-09-08 10:34:47,298 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_butterworth
+   
+2018-09-08 10:34:47,298 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_hussein_onn
+   
+2018-09-08 10:34:47,298 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_kepong
+   
+2018-09-08 10:34:47,298 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_klang
+   
+2018-09-08 10:34:47,298 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_subang_jaya
+   
+2018-09-08 10:34:47,299 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_wangsa_maju
+   
+2018-09-08 10:34:47,299 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/caltex_coalfields_drive_thru
+   
+2018-09-08 10:34:47,299 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/carrefour_batu_pahat
+   
+2018-09-08 10:34:47,299 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/cenderawasih
+   
+2018-09-08 10:34:47,299 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/central_square_sg_petani
+   
+2018-09-08 10:34:47,300 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/centre_point
+   
+2018-09-08 10:34:47,300 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/centre_point_bandar_utama
+   
+2018-09-08 10:34:47,300 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/changlun_kedah
+   
+2018-09-08 10:34:47,300 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/cenang_mall_langkawi
+   
+2018-09-08 10:34:47,300 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/cheras_taman_pertama
+   
+2018-09-08 10:34:47,301 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/city_mall
+   
+2018-09-08 10:34:47,301 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/city_square_jb
+   
+2018-09-08 10:34:47,301 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/cockman
+   
+2018-09-08 10:34:47,301 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/cyberjaya
+   
+2018-09-08 10:34:47,302 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/damansara_alif_drive_thru
+   
+2018-09-08 10:34:47,302 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/damansara_damai
+   
+2018-09-08 10:34:47,302 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/dataran_pahlawan
+   
+2018-09-08 10:34:47,303 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/de_centrum_kajang
+   
+2018-09-08 10:34:47,303 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/delta_mall
+   
+2018-09-08 10:34:47,303 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/dengkil
+   
+2018-09-08 10:34:47,303 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/desa_aman_puri
+   
+2018-09-08 10:34:47,303 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/desa_jaya
+   
+2018-09-08 10:34:47,304 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/desa_pandan
+   
+2018-09-08 10:34:47,304 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/desa_ria_sg_ara_penang
+   
+2018-09-08 10:34:47,304 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/desa_sri_hartamas
+   
+2018-09-08 10:34:47,304 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/desaru
+   
+2018-09-08 10:34:47,304 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/donggongon
+   
+2018-09-08 10:34:47,305 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/dungun
+   
+2018-09-08 10:34:47,305 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/e_mart
+   
+2018-09-08 10:34:47,305 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/east_coast_mall_kuantan
+   
+2018-09-08 10:34:47,305 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/emart_batu_kawah
+   
+2018-09-08 10:34:47,306 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/emart_riam_miri
+   
+2018-09-08 10:34:47,306 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/empire_building_tawau
+   
+2018-09-08 10:34:47,306 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/endah_parade
+   
+2018-09-08 10:34:47,306 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/esso_hulu_langat_drive_thru
+   
+2018-09-08 10:34:47,306 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/extreme_park_s13_shah_alam
+   
+2018-09-08 10:34:47,307 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/fajar_banting
+   
+2018-09-08 10:34:47,307 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/fajar_kamunting
+   
+2018-09-08 10:34:47,307 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/fajar_tawau
+   
+2018-09-08 10:34:47,307 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/financial_park_labuan
+   
+2018-09-08 10:34:47,308 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/freeport_a'famosa
+   
+2018-09-08 10:34:47,308 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/g-orange_mall_drive_thru
+   
+2018-09-08 10:34:47,308 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/galleria_kotaraya_jb
+   
+2018-09-08 10:34:47,308 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gemas
+   
+2018-09-08 10:34:47,308 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gemencheh
+   
+2018-09-08 10:34:47,309 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/genting_klang
+   
+2018-09-08 10:34:47,309 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_batu_caves
+   
+2018-09-08 10:34:47,309 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_bayan_baru
+   
+2018-09-08 10:34:47,309 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_bukit_tinggi_klang
+   
+2018-09-08 10:34:47,309 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_jb_(plentong)
+   
+2018-09-08 10:34:47,309 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_kelana_jaya
+   
+2018-09-08 10:34:47,310 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_kinrara_puchong
+   
+2018-09-08 10:34:47,310 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_kolombong
+   
+2018-09-08 10:34:47,310 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_kota_damansara
+   
+2018-09-08 10:34:47,310 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_kuala_terengganu
+   
+2018-09-08 10:34:47,310 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_kuantan
+   
+2018-09-08 10:34:47,311 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_manjung
+   
+2018-09-08 10:34:47,311 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_muar
+   
+2018-09-08 10:34:47,311 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_nilai
+   
+2018-09-08 10:34:47,311 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_petra_jaya
+   
+2018-09-08 10:34:47,311 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_puteri_puchong
+   
+2018-09-08 10:34:47,312 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_senawang
+   
+2018-09-08 10:34:47,312 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_shah_alam
+   
+2018-09-08 10:34:47,312 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_sungai_petani
+   
+2018-09-08 10:34:47,312 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_taiping
+   
+2018-09-08 10:34:47,312 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gong_badak_drive_thru
+   
+2018-09-08 10:34:47,313 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gopeng
+   
+2018-09-08 10:34:47,313 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/grand_millenium
+   
+2018-09-08 10:34:47,313 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/greenlane_penang_drive_thru
+   
+2018-09-08 10:34:47,313 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/grik_perak
+   
+2018-09-08 10:34:47,313 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gua_musang_drive_thru
+   
+2018-09-08 10:34:47,314 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gunung_rapat_drive_thru
+   
+2018-09-08 10:34:47,314 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gurun_2_kedah
+   
+2018-09-08 10:34:47,315 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/holiday_plaza
+   
+2018-09-08 10:34:47,315 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/hutan_melintang_perak
+   
+2018-09-08 10:34:47,315 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/i-city_shah_alam_section_7
+   
+2018-09-08 10:34:47,315 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ijok
+   
+2018-09-08 10:34:47,315 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/imperial_mall
+   
+2018-09-08 10:34:47,316 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/indera_mahkota_drive_thru
+   
+2018-09-08 10:34:47,316 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/inderawasih
+   
+2018-09-08 10:34:47,317 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ioi_city_mall_putrajaya
+   
+2018-09-08 10:34:47,317 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ioi_kulai
+   
+2018-09-08 10:34:47,317 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ioi_mall_puchong
+   
+2018-09-08 10:34:47,317 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ipoh_garden
+   
+2018-09-08 10:34:47,318 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jalan_baru_drive_thru
+   
+2018-09-08 10:34:47,318 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jalan_masjid_tawau
+   
+2018-09-08 10:34:47,318 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jalan_pasar_sandakan_harbour
+   
+2018-09-08 10:34:47,318 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jalan_sultan
+   
+2018-09-08 10:34:47,318 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jalan_tun_perak
+   
+2018-09-08 10:34:47,319 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jalan_universiti_drive_thru
+   
+2018-09-08 10:34:47,319 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jasin
+   
+2018-09-08 10:34:47,319 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jb_sentral
+   
+2018-09-08 10:34:47,319 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jbcc_komtar_jb
+   
+2018-09-08 10:34:47,319 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jementah
+   
+2018-09-08 10:34:47,320 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jengka
+   
+2018-09-08 10:34:47,320 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jenjarom
+   
+2018-09-08 10:34:47,320 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jerantut
+   
+2018-09-08 10:34:47,320 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jerteh
+   
+2018-09-08 10:34:47,320 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jitra
+   
+2018-09-08 10:34:47,321 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/johan_setia_drive_thru
+   
+2018-09-08 10:34:47,321 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/johor_jaya
+   
+2018-09-08 10:34:47,321 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/juru_auto_city
+   
+2018-09-08 10:34:47,321 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jusco_cheras_selatan
+   
+2018-09-08 10:34:47,321 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jusco_equine_park
+   
+2018-09-08 10:34:47,322 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jusco_permas_jaya
+   
+2018-09-08 10:34:47,322 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jusco_prima_kepong
+   
+2018-09-08 10:34:47,322 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jusco_seremban_2
+   
+2018-09-08 10:34:47,322 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jusco_taman_universiti
+   
+2018-09-08 10:34:47,322 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/k-mart_muar
+   
+2018-09-08 10:34:47,323 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kajang_1
+   
+2018-09-08 10:34:47,323 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kajang_drive_thru
+   
+2018-09-08 10:34:47,323 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kampar
+   
+2018-09-08 10:34:47,323 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kampung_air
+   
+2018-09-08 10:34:47,323 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kamunting
+   
+2018-09-08 10:34:47,324 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kangar
+   
+2018-09-08 10:34:47,324 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kangar_2
+   
+2018-09-08 10:34:47,324 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kapar
+   
+2018-09-08 10:34:47,324 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kapit
+   
+2018-09-08 10:34:47,324 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/karak
+   
+2018-09-08 10:34:47,325 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kelana_jaya
+   
+2018-09-08 10:34:47,325 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kemaman
+   
+2018-09-08 10:34:47,325 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kemayan
+   
+2018-09-08 10:34:47,325 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/keningau
+   
+2018-09-08 10:34:47,325 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kepala_batas_2
+   
+2018-09-08 10:34:47,326 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kepong_drive_thru
+   
+2018-09-08 10:34:47,326 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kia
+   
+2018-09-08 10:34:47,326 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kidurong
+   
+2018-09-08 10:34:47,326 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kijal
+   
+2018-09-08 10:34:47,326 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kinabatangan
+   
+2018-09-08 10:34:47,327 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kinta_city
+   
+2018-09-08 10:34:47,327 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kis
+   
+2018-09-08 10:34:47,327 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kk_times_square
+   
+2018-09-08 10:34:47,327 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kkia_(t1)
+   
+2018-09-08 10:34:47,327 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kl_sentral
+   
+2018-09-08 10:34:47,328 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klang_1
+   
+2018-09-08 10:34:47,328 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klang_2
+   
+2018-09-08 10:34:47,328 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klang_utama
+   
+2018-09-08 10:34:47,328 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klebang
+   
+2018-09-08 10:34:47,328 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klia
+   
+2018-09-08 10:34:47,329 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klia2_arrival_hall
+   
+2018-09-08 10:34:47,329 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klia2_depature_hall
+   
+2018-09-08 10:34:47,329 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kluang_1
+   
+2018-09-08 10:34:47,329 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kluang_2
+   
+2018-09-08 10:34:47,329 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kluang_mall_2
+   
+2018-09-08 10:34:47,330 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kluang_parade
+   
+2018-09-08 10:34:47,330 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kok_lanas_drive_thru
+   
+2018-09-08 10:34:47,330 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kok_lian
+   
+2018-09-08 10:34:47,330 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kompleks_karamunsing
+   
+2018-09-08 10:34:47,330 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kompleks_sungai_buloh
+   
+2018-09-08 10:34:47,331 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/komtar
+   
+2018-09-08 10:34:47,331 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_belud
+   
+2018-09-08 10:34:47,331 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_bharu
+   
+2018-09-08 10:34:47,331 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_bharu_2
+   
+2018-09-08 10:34:47,331 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_bharu_airport
+   
+2018-09-08 10:34:47,331 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_bharu_mall
+   
+2018-09-08 10:34:47,332 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_damansara_drive_thru
+   
+2018-09-08 10:34:47,332 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_marudu
+   
+2018-09-08 10:34:47,332 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_samarahan
+   
+2018-09-08 10:34:47,332 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_sentosa
+   
+2018-09-08 10:34:47,332 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_tinggi
+   
+2018-09-08 10:34:47,333 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ksl_city_mall_johor
+   
+2018-09-08 10:34:47,333 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuah_langkawi
+   
+2018-09-08 10:34:47,333 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_berang
+   
+2018-09-08 10:34:47,333 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_kangsar
+   
+2018-09-08 10:34:47,333 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_ketil_kedah
+   
+2018-09-08 10:34:47,334 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_klawang
+   
+2018-09-08 10:34:47,334 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_krai
+   
+2018-09-08 10:34:47,334 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_lipis
+   
+2018-09-08 10:34:47,334 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_nerang
+   
+2018-09-08 10:34:47,334 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_perlis
+   
+2018-09-08 10:34:47,335 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_pilah
+   
+2018-09-08 10:34:47,335 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_selangor
+   
+2018-09-08 10:34:47,335 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_terengganu_1
+   
+2018-09-08 10:34:47,335 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_terengganu_2
+   
+2018-09-08 10:34:47,336 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuantan_1
+   
+2018-09-08 10:34:47,336 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuantan_2
+   
+2018-09-08 10:34:47,337 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuantan_parade
+   
+2018-09-08 10:34:47,337 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kubang_kerian_drive_thru
+   
+2018-09-08 10:34:47,337 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuchai_lama_drive_thru
+   
+2018-09-08 10:34:47,337 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuching_sentral
+   
+2018-09-08 10:34:47,337 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kudat
+   
+2018-09-08 10:34:47,338 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kulai
+   
+2018-09-08 10:34:47,338 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kulai_drive_thru
+   
+2018-09-08 10:34:47,338 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kulim_1
+   
+2018-09-08 10:34:47,338 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kunak
+   
+2018-09-08 10:34:47,339 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kundasang
+   
+2018-09-08 10:34:47,339 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/labis
+   
+2018-09-08 10:34:47,339 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/labuan_1
+   
+2018-09-08 10:34:47,339 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/lahad_datu
+   
+2018-09-08 10:34:47,340 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/landmark_kulim
+   
+2018-09-08 10:34:47,340 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/langkap
+   
+2018-09-08 10:34:47,340 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/langkawi
+   
+2018-09-08 10:34:47,340 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/larkin
+   
+2018-09-08 10:34:47,340 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/larut
+   
+2018-09-08 10:34:47,341 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/lawas
+   
+2018-09-08 10:34:47,341 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/legoland_jb_(medini_mall)
+   
+2018-09-08 10:34:47,341 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/lido
+   
+2018-09-08 10:34:47,341 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/limbang
+   
+2018-09-08 10:34:47,342 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/limbong_kapal_drive_thru_(alor_star_ii)
+   
+2018-09-08 10:34:47,342 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/lkc
+   
+2018-09-08 10:34:47,342 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/louis_junction
+   
+2018-09-08 10:34:47,342 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/low_yat_plaza
+   
+2018-09-08 10:34:47,342 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/lukut
+   
+2018-09-08 10:34:47,343 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/lumut
+   
+2018-09-08 10:34:47,343 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/machang_kelantan
+   
+2018-09-08 10:34:47,343 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mahkota_parade
+   
+2018-09-08 10:34:47,344 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/malim_jaya
+   
+2018-09-08 10:34:47,344 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mantin
+   
+2018-09-08 10:34:47,344 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/maran
+   
+2018-09-08 10:34:47,344 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/marang
+   
+2018-09-08 10:34:47,345 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/masjid_tanah
+   
+2018-09-08 10:34:47,345 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/matang
+   
+2018-09-08 10:34:47,345 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/medan_idaman
+   
+2018-09-08 10:34:47,345 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/medan_jaya
+   
+2018-09-08 10:34:47,345 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/medan_niaga_sungai_besi
+   
+2018-09-08 10:34:47,346 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/megamall_kuantan
+   
+2018-09-08 10:34:47,346 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/megamall_pinang
+   
+2018-09-08 10:34:47,346 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/melaka_2
+   
+2018-09-08 10:34:47,346 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/menara_jcorp
+   
+2018-09-08 10:34:47,346 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mentakab
+   
+2018-09-08 10:34:47,347 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mentakab_star_mall
+   
+2018-09-08 10:34:47,347 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/merlimau_drive_thru
+   
+2018-09-08 10:34:47,347 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mersing
+   
+2018-09-08 10:34:47,347 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/meru
+   
+2018-09-08 10:34:47,348 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/meru_raya_drive_thru_ipoh
+   
+2018-09-08 10:34:47,348 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/metrocity_drive_thru
+   
+2018-09-08 10:34:47,348 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mid_valley
+   
+2018-09-08 10:34:47,348 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/midlands
+   
+2018-09-08 10:34:47,348 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/miri_1
+   
+2018-09-08 10:34:47,349 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/muar_1
+   
+2018-09-08 10:34:47,349 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/muar_2
+   
+2018-09-08 10:34:47,349 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mukah
+   
+2018-09-08 10:34:47,349 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mutiara_rini_drive_thru
+   
+2018-09-08 10:34:47,350 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mydin_kuala_terengganu
+   
+2018-09-08 10:34:47,350 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mydin_usj
+   
+2018-09-08 10:34:47,350 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/nibong_tebal
+   
+2018-09-08 10:34:47,351 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/nilai_square_drive_thru
+   
+2018-09-08 10:34:47,351 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/nu_sentral_kl
+   
+2018-09-08 10:34:47,352 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/nusa_bestari
+   
+2018-09-08 10:34:47,352 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/nusa_perintis_gelang_patah
+   
+2018-09-08 10:34:47,353 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ohb_ayer_keroh
+   
+2018-09-08 10:34:47,353 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ohb_sg_buloh
+   
+2018-09-08 10:34:47,354 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/one_borneo
+   
+2018-09-08 10:34:47,354 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/one_segamat
+   
+2018-09-08 10:34:47,354 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/padang_bandaran_keningau
+   
+2018-09-08 10:34:47,354 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/padang_besar
+   
+2018-09-08 10:34:47,355 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/padang_lallang
+   
+2018-09-08 10:34:47,355 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/padang_serai
+   
+2018-09-08 10:34:47,355 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/palm_beach_teluk_cempedak
+   
+2018-09-08 10:34:47,356 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/palm_mall_negeri_sembilan
+   
+2018-09-08 10:34:47,356 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pandamaran
+   
+2018-09-08 10:34:47,356 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pandan_indah
+   
+2018-09-08 10:34:47,357 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pantai_remis
+   
+2018-09-08 10:34:47,357 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/papar
+   
+2018-09-08 10:34:47,357 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/parit_buntar_2
+   
+2018-09-08 10:34:47,357 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/parit_raja
+   
+2018-09-08 10:34:47,357 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pasir_gudang
+   
+2018-09-08 10:34:47,358 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pasir_gudang_land_drive_thru
+   
+2018-09-08 10:34:47,358 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pasir_mas
+   
+2018-09-08 10:34:47,358 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pasir_puteh_kelantan
+   
+2018-09-08 10:34:47,359 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pasir_tumboh_drive_thru
+   
+2018-09-08 10:34:47,359 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pavilion_bundusan
+   
+2018-09-08 10:34:47,359 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pavillion
+   
+2018-09-08 10:34:47,359 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/paya_keladi_terengganu
+   
+2018-09-08 10:34:47,360 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pekan
+   
+2018-09-08 10:34:47,360 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pekan_bukit_pasir_muar
+   
+2018-09-08 10:34:47,360 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pekan_meru
+   
+2018-09-08 10:34:47,360 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pekan_nanas
+   
+2018-09-08 10:34:47,360 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pekan_simpang_kuala
+   
+2018-09-08 10:34:47,361 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pelangi_semenyih_drive_thru
+   
+2018-09-08 10:34:47,361 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/penang_international_airport
+   
+2018-09-08 10:34:47,361 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pendang_kedah
+   
+2018-09-08 10:34:47,362 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pengkalan_chepa_drive_thru
+   
+2018-09-08 10:34:47,362 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pengkalan_hulu_perak
+   
+2018-09-08 10:34:47,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/permas_jaya
+   
+2018-09-08 10:34:47,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pertama_complex
+   
+2018-09-08 10:34:47,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_alam_damai_drive_thru
+   
+2018-09-08 10:34:47,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_bentong_drive_thru
+   
+2018-09-08 10:34:47,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_besraya_drive_thru
+   
+2018-09-08 10:34:47,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_federal_highway
+   
+2018-09-08 10:34:47,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_kota_damansara_drive_thru
+   
+2018-09-08 10:34:47,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_metramac_cheras
+   
+2018-09-08 10:34:47,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_petaling_utama_drive_thru
+   
+2018-09-08 10:34:47,365 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_seberang_jaya_drive_thru
+   
+2018-09-08 10:34:47,365 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_section_15_shah_alam_drive_thru
+   
+2018-09-08 10:34:47,365 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_semabok_drive_thru
+   
+2018-09-08 10:34:47,365 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_skudai_drive_thru
+   
+2018-09-08 10:34:47,366 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_taman_tun_drive_thru_(ttdi)
+   
+2018-09-08 10:34:47,366 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_taman_university_drive_thru
+   
+2018-09-08 10:34:47,366 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_tpm_drive_thru
+   
+2018-09-08 10:34:47,366 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_usj_20_drive_thru
+   
+2018-09-08 10:34:47,367 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pkns_bangi
+   
+2018-09-08 10:34:47,367 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/plaza_angsana
+   
+2018-09-08 10:34:47,367 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/plaza_bm
+   
+2018-09-08 10:34:47,368 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/plaza_giant_melawati
+   
+2018-09-08 10:34:47,368 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/plaza_juta
+   
+2018-09-08 10:34:47,368 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/plaza_merdeka
+   
+2018-09-08 10:34:47,368 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pokok_sena
+   
+2018-09-08 10:34:47,369 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pontian
+   
+2018-09-08 10:34:47,369 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pontian_drive_thru
+   
+2018-09-08 10:34:47,369 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pontian_plaza
+   
+2018-09-08 10:34:47,369 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/port_dickson
+   
+2018-09-08 10:34:47,369 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/port_dickson_drive_thru
+   
+2018-09-08 10:34:47,370 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/port_klang
+   
+2018-09-08 10:34:47,370 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/port_klang_kiosk
+   
+2018-09-08 10:34:47,370 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/premiere_101
+   
+2018-09-08 10:34:47,370 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/prima_alor_gajah
+   
+2018-09-08 10:34:47,370 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/puchong
+   
+2018-09-08 10:34:47,371 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/puchong_prima
+   
+2018-09-08 10:34:47,371 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pudu2
+   
+2018-09-08 10:34:47,371 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/puduraya
+   
+2018-09-08 10:34:47,371 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pulau_pangkor
+   
+2018-09-08 10:34:47,371 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/puncak_alam
+   
+2018-09-08 10:34:47,372 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pusat_bandar_rawang
+   
+2018-09-08 10:34:47,372 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/putatan_plaza
+   
+2018-09-08 10:34:47,372 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/puteri_wangsa_drive_thru
+   
+2018-09-08 10:34:47,372 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/queensbay_mall_penang
+   
+2018-09-08 10:34:47,373 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/quill_mall
+   
+2018-09-08 10:34:47,373 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/r2_avenue_sg_dua
+   
+2018-09-08 10:34:47,373 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/raja_laut
+   
+2018-09-08 10:34:47,374 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/raja_uda_butterworth
+   
+2018-09-08 10:34:47,374 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ranau
+   
+2018-09-08 10:34:47,374 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rantau
+   
+2018-09-08 10:34:47,375 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rantau_panjang_drive_thru
+   
+2018-09-08 10:34:47,375 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rasah_jaya
+   
+2018-09-08 10:34:47,375 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/raub
+   
+2018-09-08 10:34:47,375 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/raub_2
+   
+2018-09-08 10:34:47,376 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rawang_new_town
+   
+2018-09-08 10:34:47,376 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rembau
+   
+2018-09-08 10:34:47,376 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rengit
+   
+2018-09-08 10:34:47,377 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rock_road
+   
+2018-09-08 10:34:47,377 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rompin
+   
+2018-09-08 10:34:47,377 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rsa_gunung_semanggol
+   
+2018-09-08 10:34:47,377 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rsa_gurun
+   
+2018-09-08 10:34:47,377 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rsa_pagoh
+   
+2018-09-08 10:34:47,378 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rsa_seremban
+   
+2018-09-08 10:34:47,378 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rsa_tapah
+   
+2018-09-08 10:34:47,378 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rtc_gopeng_drive_thru
+   
+2018-09-08 10:34:47,378 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sabak_bernam
+   
+2018-09-08 10:34:47,379 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/salak_tinggi
+   
+2018-09-08 10:34:47,379 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sandakan_giant
+   
+2018-09-08 10:34:47,379 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sandakan_harbour_square
+   
+2018-09-08 10:34:47,379 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sandakan_mile_4
+   
+2018-09-08 10:34:47,380 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sandakan_sibuga_jaya
+   
+2018-09-08 10:34:47,380 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/saratok
+   
+2018-09-08 10:34:47,380 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sarawak_plaza
+   
+2018-09-08 10:34:47,381 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sarikei
+   
+2018-09-08 10:34:47,381 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/satok
+   
+2018-09-08 10:34:47,381 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/saujana_putra
+   
+2018-09-08 10:34:47,382 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sea_park
+   
+2018-09-08 10:34:47,382 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/secondlink_jb
+   
+2018-09-08 10:34:47,382 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/section_14
+   
+2018-09-08 10:34:47,382 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/section_9_shah_alam
+   
+2018-09-08 10:34:47,382 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/segamat
+   
+2018-09-08 10:34:47,383 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/selayang
+   
+2018-09-08 10:34:47,383 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/selayang_mall
+   
+2018-09-08 10:34:47,383 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/semporna
+   
+2018-09-08 10:34:47,383 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/senai_airport
+   
+2018-09-08 10:34:47,384 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/senai_impian_johor_drive_thru
+   
+2018-09-08 10:34:47,384 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/senawang
+   
+2018-09-08 10:34:47,384 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sentul_raya
+   
+2018-09-08 10:34:47,384 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sepanggar
+   
+2018-09-08 10:34:47,385 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/seremban
+   
+2018-09-08 10:34:47,385 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/seremban_2_drive_thru
+   
+2018-09-08 10:34:47,385 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/seremban_drive_thru
+   
+2018-09-08 10:34:47,385 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/seri_alam_drive_thru
+   
+2018-09-08 10:34:47,385 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/seri_gelam_drive_thru_jb
+   
+2018-09-08 10:34:47,385 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/seri_kembangan
+   
+2018-09-08 10:34:47,386 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/serian_baru
+   
+2018-09-08 10:34:47,386 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/setia_alam_drive_thru
+   
+2018-09-08 10:34:47,386 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/setia_city_mall
+   
+2018-09-08 10:34:47,386 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/setia_tropika_drive_thru
+   
+2018-09-08 10:34:47,387 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/setiawangsa
+   
+2018-09-08 10:34:47,387 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/setiu
+   
+2018-09-08 10:34:47,387 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shah_alam_1
+   
+2018-09-08 10:34:47,387 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shah_alam_2
+   
+2018-09-08 10:34:47,387 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shah_alam_drive_thru_section_7
+   
+2018-09-08 10:34:47,388 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shah_alam_section_2_drive_thru
+   
+2018-09-08 10:34:47,388 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shah_alam_section_20
+   
+2018-09-08 10:34:47,388 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shell_nkve_drive_thru
+   
+2018-09-08 10:34:47,389 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shell_simpang_renggam_drive_thru
+   
+2018-09-08 10:34:47,389 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sibu_1
+   
+2018-09-08 10:34:47,389 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sibu_bus_terminal
+   
+2018-09-08 10:34:47,389 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sibu_jaya
+   
+2018-09-08 10:34:47,390 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/siburan
+   
+2018-09-08 10:34:47,390 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sik_kedah
+   
+2018-09-08 10:34:47,390 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/silibin
+   
+2018-09-08 10:34:47,390 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/simpang_ampat
+   
+2018-09-08 10:34:47,391 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/simpang_taiping_drive_thru
+   
+2018-09-08 10:34:47,391 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sing_kwong
+   
+2018-09-08 10:34:47,391 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sipitang
+   
+2018-09-08 10:34:47,391 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sitiawan
+   
+2018-09-08 10:34:47,392 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/skudai_parade
+   
+2018-09-08 10:34:47,392 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/slim_river
+   
+2018-09-08 10:34:47,392 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sri_aman
+   
+2018-09-08 10:34:47,393 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sri_gombak
+   
+2018-09-08 10:34:47,394 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sri_iskandar_drive_thru
+   
+2018-09-08 10:34:47,394 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sri_jati_puchong_drive_thru
+   
+2018-09-08 10:34:47,394 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sri_serdang
+   
+2018-09-08 10:34:47,395 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sri_sinar_segambut
+   
+2018-09-08 10:34:47,395 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ss_15
+   
+2018-09-08 10:34:47,395 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/stadium_kota_bharu_drive_thru
+   
+2018-09-08 10:34:47,395 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/state
+   
+2018-09-08 10:34:47,395 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/stulang_laut_johor_drive_thru
+   
+2018-09-08 10:34:47,396 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/subang_2_shah_alam_drive_thru
+   
+2018-09-08 10:34:47,396 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sulaman_drive_thru
+   
+2018-09-08 10:34:47,396 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/summer_mall
+   
+2018-09-08 10:34:47,397 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/summit_city
+   
+2018-09-08 10:34:47,397 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_bakap
+   
+2018-09-08 10:34:47,397 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_besar
+   
+2018-09-08 10:34:47,397 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_besi
+   
+2018-09-08 10:34:47,398 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_besi_toll_drive_thru
+   
+2018-09-08 10:34:47,398 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_buloh_1
+   
+2018-09-08 10:34:47,399 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_buloh_2
+   
+2018-09-08 10:34:47,399 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_chua
+   
+2018-09-08 10:34:47,400 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_dua
+   
+2018-09-08 10:34:47,400 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_pelek
+   
+2018-09-08 10:34:47,400 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_petani_1
+   
+2018-09-08 10:34:47,401 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_petani_drive_thru_(bandar_puteri)
+   
+2018-09-08 10:34:47,401 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_siput
+   
+2018-09-08 10:34:47,402 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_udang_melaka
+   
+2018-09-08 10:34:47,403 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_wang
+   
+2018-09-08 10:34:47,403 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sunway_carnival_mall
+   
+2018-09-08 10:34:47,404 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sunway_metro_/_bandar_sunway
+   
+2018-09-08 10:34:47,404 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sunway_pyramid
+   
+2018-09-08 10:34:47,404 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/suria_sabah
+   
+2018-09-08 10:34:47,404 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sutera_mall_skudai
+   
+2018-09-08 10:34:47,405 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tabuan_jaya
+   
+2018-09-08 10:34:47,405 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taipan_inanam
+   
+2018-09-08 10:34:47,406 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taiping
+   
+2018-09-08 10:34:47,406 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_bukit_minyak
+   
+2018-09-08 10:34:47,407 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_bukit_tiram_3
+   
+2018-09-08 10:34:47,407 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_cahaya_masai
+   
+2018-09-08 10:34:47,407 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_cempaka_(axis_atrium)
+   
+2018-09-08 10:34:47,407 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_connaught
+   
+2018-09-08 10:34:47,407 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_danau_desa
+   
+2018-09-08 10:34:47,409 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_daya
+   
+2018-09-08 10:34:47,409 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_gaya
+   
+2018-09-08 10:34:47,409 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_lavender_kuala_kangsar
+   
+2018-09-08 10:34:47,410 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_maluri
+   
+2018-09-08 10:34:47,410 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_melawati
+   
+2018-09-08 10:34:47,411 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_molek
+   
+2018-09-08 10:34:47,411 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_perling_drive_thru
+   
+2018-09-08 10:34:47,411 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_putra
+   
+2018-09-08 10:34:47,411 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_rishah_farlim_ipoh
+   
+2018-09-08 10:34:47,412 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_sejati_indah
+   
+2018-09-08 10:34:47,412 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_selera_drive_thru
+   
+2018-09-08 10:34:47,412 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_semarak
+   
+2018-09-08 10:34:47,413 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_sentosa_drive_thru
+   
+2018-09-08 10:34:47,413 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_setia_rawang
+   
+2018-09-08 10:34:47,414 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_sri_manja_square_2
+   
+2018-09-08 10:34:47,414 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_sri_muda
+   
+2018-09-08 10:34:47,415 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_taming_jaya
+   
+2018-09-08 10:34:47,415 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_tas_kuantan
+   
+2018-09-08 10:34:47,415 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_wawasan
+   
+2018-09-08 10:34:47,415 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tampin_square
+   
+2018-09-08 10:34:47,416 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanah_merah
+   
+2018-09-08 10:34:47,416 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanahmas
+   
+2018-09-08 10:34:47,416 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tangkak
+   
+2018-09-08 10:34:47,417 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanjung_aru
+   
+2018-09-08 10:34:47,417 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanjung_karang
+   
+2018-09-08 10:34:47,417 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanjung_leman_kiosk
+   
+2018-09-08 10:34:47,417 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanjung_malim
+   
+2018-09-08 10:34:47,418 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanjung_tokong_drive_thru
+   
+2018-09-08 10:34:47,418 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tapah
+   
+2018-09-08 10:34:47,418 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tasek_ipoh_drive_thru
+   
+2018-09-08 10:34:47,418 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tasik_prima_puchong_drive_thru
+   
+2018-09-08 10:34:47,419 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tawau_giant
+   
+2018-09-08 10:34:47,419 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/teluk_intan
+   
+2018-09-08 10:34:47,419 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/teluk_intan_drive_thru
+   
+2018-09-08 10:34:47,419 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/teluk_panglima_garang
+   
+2018-09-08 10:34:47,420 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/teluk_pulai
+   
+2018-09-08 10:34:47,420 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/telupid
+   
+2018-09-08 10:34:47,420 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/temerloh
+   
+2018-09-08 10:34:47,420 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/temerloh_drive_thru
+   
+2018-09-08 10:34:47,421 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tenom
+   
+2018-09-08 10:34:47,421 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/terminal_1_seremban
+   
+2018-09-08 10:34:47,421 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/terminal_2
+   
+2018-09-08 10:34:47,421 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/terminal_larkin_drive_thru
+   
+2018-09-08 10:34:47,422 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_alor_setar_(mergong)
+   
+2018-09-08 10:34:47,422 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_ampang
+   
+2018-09-08 10:34:47,423 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_ara_damansara
+   
+2018-09-08 10:34:47,423 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_bandar_cheng
+   
+2018-09-08 10:34:47,423 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_bukit_mertajam
+   
+2018-09-08 10:34:47,424 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_bukit_tinggi_klang
+   
+2018-09-08 10:34:47,424 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_damansara
+   
+2018-09-08 10:34:47,425 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_extra_plentong
+   
+2018-09-08 10:34:47,425 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_extra_prai
+   
+2018-09-08 10:34:47,425 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_extra_selayang
+   
+2018-09-08 10:34:47,425 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_ipoh
+   
+2018-09-08 10:34:47,426 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_jelutong_penang
+   
+2018-09-08 10:34:47,426 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kajang
+   
+2018-09-08 10:34:47,426 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kampar
+   
+2018-09-08 10:34:47,426 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kepong
+   
+2018-09-08 10:34:47,427 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kota_bharu
+   
+2018-09-08 10:34:47,427 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kuala_selangor
+   
+2018-09-08 10:34:47,427 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kulai
+   
+2018-09-08 10:34:47,427 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kulim
+   
+2018-09-08 10:34:47,428 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_manjung
+   
+2018-09-08 10:34:47,428 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_melaka
+   
+2018-09-08 10:34:47,428 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_nilai
+   
+2018-09-08 10:34:47,428 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_puchong
+   
+2018-09-08 10:34:47,428 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_rawang
+   
+2018-09-08 10:34:47,429 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_semenyih
+   
+2018-09-08 10:34:47,429 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_seremban_2
+   
+2018-09-08 10:34:47,429 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_seri_alam_jb
+   
+2018-09-08 10:34:47,429 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_sg_petani
+   
+2018-09-08 10:34:47,430 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_sg_petani_mutiara_plaza
+   
+2018-09-08 10:34:47,430 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_shah_alam
+   
+2018-09-08 10:34:47,430 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_station_18_pasir_putih
+   
+2018-09-08 10:34:47,430 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_taiping
+   
+2018-09-08 10:34:47,430 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_tanjung_pinang
+   
+2018-09-08 10:34:47,431 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/the_curve_damansara
+   
+2018-09-08 10:34:47,431 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/the_mines
+   
+2018-09-08 10:34:47,431 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/the_spring
+   
+2018-09-08 10:34:47,431 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/the_store_semenyih_(fajar)
+   
+2018-09-08 10:34:47,432 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/times_square
+   
+2018-09-08 10:34:47,432 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/triang_drive_thru
+   
+2018-09-08 10:34:47,432 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tuanku_haminah_sg_petani
+   
+2018-09-08 10:34:47,432 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tuaran
+   
+2018-09-08 10:34:47,432 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tumpat
+   
+2018-09-08 10:34:47,433 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tun_aminah
+   
+2018-09-08 10:34:47,433 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/usj_taipan
+   
+2018-09-08 10:34:47,433 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/utama_jaya_labuan_3
+   
+2018-09-08 10:34:47,434 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/vantage_point_jelutong
+   
+2018-09-08 10:34:47,434 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/viva_jalan_ipoh
+   
+2018-09-08 10:34:47,434 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/vsq_petaling_jaya
+   
+2018-09-08 10:34:47,434 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/w._sanyan
+   
+2018-09-08 10:34:47,434 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wangsa_maju
+   
+2018-09-08 10:34:47,435 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wangsa_maju_drive_thru
+   
+2018-09-08 10:34:47,435 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/waterfront
+   
+2018-09-08 10:34:47,436 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wawasan_plaza
+   
+2018-09-08 10:34:47,436 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wisma_gerakan
+   
+2018-09-08 10:34:47,436 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wisma_hopoh
+   
+2018-09-08 10:34:47,436 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wisma_hualang
+   
+2018-09-08 10:34:47,436 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wisma_merdeka
+   
+2018-09-08 10:34:47,437 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/yong_peng
+   
+2018-09-08 10:34:47,437 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/5_barat
+   
+2018-09-08 10:34:47,437 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_au2_setiawangsa
+   
+2018-09-08 10:34:47,437 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_bukit_indah_johor
+   
+2018-09-08 10:34:47,437 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_bukit_tinggi
+   
+2018-09-08 10:34:47,438 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_kulaijaya
+   
+2018-09-08 10:34:47,438 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_mahkota_cheras
+   
+2018-09-08 10:34:47,439 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_mall_bukit_mertajam
+   
+2018-09-08 10:34:47,439 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_mall_klebang
+   
+2018-09-08 10:34:47,439 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_mall_kota_bharu
+   
+2018-09-08 10:34:47,440 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_melaka
+   
+2018-09-08 10:34:47,440 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_pasir_putih_perak
+   
+2018-09-08 10:34:47,440 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_seri_manjung
+   
+2018-09-08 10:34:47,440 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_shah_alam
+   
+2018-09-08 10:34:47,441 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_taiping
+   
+2018-09-08 10:34:47,441 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alam_megah
+   
+2018-09-08 10:34:47,441 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alam_sentral
+   
+2018-09-08 10:34:47,441 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alamanda_putrajaya
+   
+2018-09-08 10:34:47,442 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alma_bukit_mertajam
+   
+2018-09-08 10:34:47,442 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alor_mengkudu_drive_thru
+   
+2018-09-08 10:34:47,442 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alor_setar_3_jalan_putra
+   
+2018-09-08 10:34:47,442 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alor_setar_drive_thru_(alor_setar_1)
+   
+2018-09-08 10:34:47,443 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alor_star_mall
+   
+2018-09-08 10:34:47,443 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aman_central_alor_setar
+   
+2018-09-08 10:34:47,443 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/amanputra_kepala_batas
+   
+2018-09-08 10:34:47,443 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ampang_2
+   
+2018-09-08 10:34:47,443 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ampang_point
+   
+2018-09-08 10:34:47,444 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/arau
+   
+2018-09-08 10:34:47,444 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/atria_damansara
+   
+2018-09-08 10:34:47,444 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ayer_keroh_drive_thru
+   
+2018-09-08 10:34:47,445 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ayer_keroh-jusco
+   
+2018-09-08 10:34:47,445 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ayer_tawar
+   
+2018-09-08 10:34:47,445 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bachok_drive_thru
+   
+2018-09-08 10:34:47,445 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bagan_serai
+   
+2018-09-08 10:34:47,446 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bahau
+   
+2018-09-08 10:34:47,446 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bako_drive_thru
+   
+2018-09-08 10:34:47,446 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/balakong
+   
+2018-09-08 10:34:47,446 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/balik_pulau
+   
+2018-09-08 10:34:47,447 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/baling
+   
+2018-09-08 10:34:47,447 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/balok_kuantan
+   
+2018-09-08 10:34:47,447 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/balung_tawau
+   
+2018-09-08 10:34:47,447 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_baru_ayer_hitam_johor
+   
+2018-09-08 10:34:47,448 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/eden_parade
+   
+2018-09-08 10:34:47,448 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_kemuning
+   
+2018-09-08 10:34:47,448 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/denai_alam
+   
+2018-09-08 10:34:47,448 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_goh
+   
+2018-09-08 10:34:47,448 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tabuan_tranquility_drive_thru
+   
+2018-09-08 10:34:47,449 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/guar_chempedak
+   
+2018-09-08 10:34:47,449 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/design_village
+   
+2018-09-08 10:34:47,449 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bhp_kampar_drive_thru
+   
+2018-09-08 10:34:47,449 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_my_town
+   
+2018-09-08 10:34:47,450 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_my_town
+   
+2018-09-08 10:34:47,450 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_aman_jaya
+   
+2018-09-08 10:34:47,450 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_jeli
+   
+2018-09-08 10:34:47,450 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_bandar_pinggiran_putra
+   
+2018-09-08 10:34:47,450 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_simpang_perdana
+   
+2018-09-08 10:34:47,451 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_serambi_pekan
+   
+2018-09-08 10:34:47,451 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_kuala_samarahan
+   
+2018-09-08 10:34:47,452 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_delivery_bangsar
+   
+2018-09-08 10:34:47,452 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_sunway_mentari
+   
+2018-09-08 10:34:47,452 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_gurney_mall
+   
+2018-09-08 10:34:47,452 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_petron_kampung_raja
+   
+2018-09-08 10:34:47,453 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_paradigm_mall_pj
+   
+2018-09-08 10:34:47,453 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_jalan_kapar
+   
+2018-09-08 10:34:47,453 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_parit_raja
+   
+2018-09-08 10:34:47,453 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_sendayan_dt
+   
+2018-09-08 10:34:47,869 [1] INFO  logInstance logInstancename 
+  Crawling 肯德基 done.
+   
+2018-09-08 10:47:51,383 [1] INFO  logInstance logInstancename 
+  Starting crawler for 肯德基
+   
+2018-09-08 10:49:04,766 [1] INFO  logInstance logInstancename 
+  Starting crawler for 肯德基
+   
+2018-09-08 10:49:46,855 [1] INFO  logInstance logInstancename 
+  Parsing https://kfc.com.my/find-a-kfc/
+   
+2018-09-08 11:09:44,361 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_baru_farlim
+   
+2018-09-08 11:09:44,362 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_baru_nilai
+   
+2018-09-08 11:09:44,362 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_baru_saujana
+   
+2018-09-08 11:09:44,362 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_baru_selayang
+   
+2018-09-08 11:09:44,362 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_darul_aman_jaya_jitra
+   
+2018-09-08 11:09:44,362 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_enstek_nilai
+   
+2018-09-08 11:09:44,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_muadzam_shah
+   
+2018-09-08 11:09:44,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_serdang_kedah
+   
+2018-09-08 11:09:44,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_seri_permaisuri_cheras
+   
+2018-09-08 11:09:44,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_seri_putra_bangi
+   
+2018-09-08 11:09:44,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_sg_long
+   
+2018-09-08 11:09:44,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_sri_perdana_lahad_datu
+   
+2018-09-08 11:09:44,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_tasik_selatan_(tbs)
+   
+2018-09-08 11:09:44,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_tenggara
+   
+2018-09-08 11:09:44,363 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_utama
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandaran_berjaya
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandaran_kk_utara_drive_thru
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bangi_utama
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/banting_2
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batang_kali
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_berendam
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_gajah
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_kawah
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_lanchang
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_niah
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_pahat_1
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_pahat_drive_thru
+   
+2018-09-08 11:09:44,364 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/batu_pahat_mall
+   
+2018-09-08 11:09:44,365 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bau
+   
+2018-09-08 11:09:44,365 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bayan_baru
+   
+2018-09-08 11:09:44,365 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/beaufort
+   
+2018-09-08 11:09:44,366 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bemban_jasin
+   
+2018-09-08 11:09:44,366 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bentong
+   
+2018-09-08 11:09:44,366 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/benut
+   
+2018-09-08 11:09:44,366 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bercham
+   
+2018-09-08 11:09:44,367 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/berjaya_times_square
+   
+2018-09-08 11:09:44,367 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/betong
+   
+2018-09-08 11:09:44,368 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bhp_tanjung_malim
+   
+2018-09-08 11:09:44,368 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bidor
+   
+2018-09-08 11:09:44,368 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bintang_plaza
+   
+2018-09-08 11:09:44,369 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bintulu_2
+   
+2018-09-08 11:09:44,369 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bornion_centre
+   
+2018-09-08 11:09:44,369 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/boulevard
+   
+2018-09-08 11:09:44,369 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/boulevard_mall
+   
+2018-09-08 11:09:44,369 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/boulevard_mall_lintas
+   
+2018-09-08 11:09:44,370 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/brinchang_cameron
+   
+2018-09-08 11:09:44,370 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_bintang
+   
+2018-09-08 11:09:44,370 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_gambir
+   
+2018-09-08 11:09:44,370 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_jambul
+   
+2018-09-08 11:09:44,371 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_jelutong
+   
+2018-09-08 11:09:44,371 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_kemuning_drive_thru
+   
+2018-09-08 11:09:44,371 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_mertajam_drive_thru
+   
+2018-09-08 11:09:44,372 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_pasir_bp3
+   
+2018-09-08 11:09:44,372 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_raja
+   
+2018-09-08 11:09:44,372 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_sentosa_rawang
+   
+2018-09-08 11:09:44,372 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/butterworth
+   
+2018-09-08 11:09:44,373 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_ampang
+   
+2018-09-08 11:09:44,373 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_bukit_rimau
+   
+2018-09-08 11:09:44,373 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_butterworth
+   
+2018-09-08 11:09:44,374 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_hussein_onn
+   
+2018-09-08 11:09:44,374 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_kepong
+   
+2018-09-08 11:09:44,375 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_klang
+   
+2018-09-08 11:09:44,375 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_subang_jaya
+   
+2018-09-08 11:09:44,375 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/c4_wangsa_maju
+   
+2018-09-08 11:09:44,375 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/caltex_coalfields_drive_thru
+   
+2018-09-08 11:09:44,375 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/carrefour_batu_pahat
+   
+2018-09-08 11:09:44,376 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/cenderawasih
+   
+2018-09-08 11:09:44,376 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/central_square_sg_petani
+   
+2018-09-08 11:09:44,376 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/centre_point
+   
+2018-09-08 11:09:44,376 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/centre_point_bandar_utama
+   
+2018-09-08 11:09:44,376 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/changlun_kedah
+   
+2018-09-08 11:09:44,377 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/cenang_mall_langkawi
+   
+2018-09-08 11:09:44,377 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/cheras_taman_pertama
+   
+2018-09-08 11:09:44,378 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/city_mall
+   
+2018-09-08 11:09:44,378 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/city_square_jb
+   
+2018-09-08 11:09:44,378 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/cockman
+   
+2018-09-08 11:09:44,378 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/cyberjaya
+   
+2018-09-08 11:09:44,379 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/damansara_alif_drive_thru
+   
+2018-09-08 11:09:44,379 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/damansara_damai
+   
+2018-09-08 11:09:44,379 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/dataran_pahlawan
+   
+2018-09-08 11:09:44,379 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/de_centrum_kajang
+   
+2018-09-08 11:09:44,380 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/delta_mall
+   
+2018-09-08 11:09:44,380 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/dengkil
+   
+2018-09-08 11:09:44,380 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/desa_aman_puri
+   
+2018-09-08 11:09:44,380 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/desa_jaya
+   
+2018-09-08 11:09:44,380 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/desa_pandan
+   
+2018-09-08 11:09:44,381 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/desa_ria_sg_ara_penang
+   
+2018-09-08 11:09:44,381 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/desa_sri_hartamas
+   
+2018-09-08 11:09:44,381 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/desaru
+   
+2018-09-08 11:09:44,381 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/donggongon
+   
+2018-09-08 11:09:44,381 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/dungun
+   
+2018-09-08 11:09:44,382 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/e_mart
+   
+2018-09-08 11:09:44,382 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/east_coast_mall_kuantan
+   
+2018-09-08 11:09:44,382 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/emart_batu_kawah
+   
+2018-09-08 11:09:44,382 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/emart_riam_miri
+   
+2018-09-08 11:09:44,383 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/empire_building_tawau
+   
+2018-09-08 11:09:44,383 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/endah_parade
+   
+2018-09-08 11:09:44,383 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/esso_hulu_langat_drive_thru
+   
+2018-09-08 11:09:44,384 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/extreme_park_s13_shah_alam
+   
+2018-09-08 11:09:44,384 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/fajar_banting
+   
+2018-09-08 11:09:44,384 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/fajar_kamunting
+   
+2018-09-08 11:09:44,384 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/fajar_tawau
+   
+2018-09-08 11:09:44,385 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/financial_park_labuan
+   
+2018-09-08 11:09:44,385 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/freeport_a'famosa
+   
+2018-09-08 11:09:44,385 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/g-orange_mall_drive_thru
+   
+2018-09-08 11:09:44,385 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/galleria_kotaraya_jb
+   
+2018-09-08 11:09:44,386 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gemas
+   
+2018-09-08 11:09:44,386 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gemencheh
+   
+2018-09-08 11:09:44,386 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/genting_klang
+   
+2018-09-08 11:09:44,386 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_batu_caves
+   
+2018-09-08 11:09:44,386 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_bayan_baru
+   
+2018-09-08 11:09:44,387 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_bukit_tinggi_klang
+   
+2018-09-08 11:09:44,387 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_jb_(plentong)
+   
+2018-09-08 11:09:44,387 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_kelana_jaya
+   
+2018-09-08 11:09:44,387 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_kinrara_puchong
+   
+2018-09-08 11:09:44,387 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_kolombong
+   
+2018-09-08 11:09:44,388 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_kota_damansara
+   
+2018-09-08 11:09:44,388 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_kuala_terengganu
+   
+2018-09-08 11:09:44,388 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_kuantan
+   
+2018-09-08 11:09:44,388 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_manjung
+   
+2018-09-08 11:09:44,389 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_muar
+   
+2018-09-08 11:09:44,389 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_nilai
+   
+2018-09-08 11:09:44,390 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_petra_jaya
+   
+2018-09-08 11:09:44,390 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_puteri_puchong
+   
+2018-09-08 11:09:44,390 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_senawang
+   
+2018-09-08 11:09:44,390 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_shah_alam
+   
+2018-09-08 11:09:44,391 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_sungai_petani
+   
+2018-09-08 11:09:44,392 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/giant_taiping
+   
+2018-09-08 11:09:44,392 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gong_badak_drive_thru
+   
+2018-09-08 11:09:44,392 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gopeng
+   
+2018-09-08 11:09:44,393 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/grand_millenium
+   
+2018-09-08 11:09:44,393 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/greenlane_penang_drive_thru
+   
+2018-09-08 11:09:44,393 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/grik_perak
+   
+2018-09-08 11:09:44,394 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gua_musang_drive_thru
+   
+2018-09-08 11:09:44,394 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gunung_rapat_drive_thru
+   
+2018-09-08 11:09:44,394 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/gurun_2_kedah
+   
+2018-09-08 11:09:44,395 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/holiday_plaza
+   
+2018-09-08 11:09:44,395 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/hutan_melintang_perak
+   
+2018-09-08 11:09:44,395 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/i-city_shah_alam_section_7
+   
+2018-09-08 11:09:44,395 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ijok
+   
+2018-09-08 11:09:44,395 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/imperial_mall
+   
+2018-09-08 11:09:44,396 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/indera_mahkota_drive_thru
+   
+2018-09-08 11:09:44,396 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/inderawasih
+   
+2018-09-08 11:09:44,396 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ioi_city_mall_putrajaya
+   
+2018-09-08 11:09:44,396 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ioi_kulai
+   
+2018-09-08 11:09:44,397 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ioi_mall_puchong
+   
+2018-09-08 11:09:44,397 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ipoh_garden
+   
+2018-09-08 11:09:44,397 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jalan_baru_drive_thru
+   
+2018-09-08 11:09:44,397 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jalan_masjid_tawau
+   
+2018-09-08 11:09:44,397 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jalan_pasar_sandakan_harbour
+   
+2018-09-08 11:09:44,398 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jalan_sultan
+   
+2018-09-08 11:09:44,398 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jalan_tun_perak
+   
+2018-09-08 11:09:44,398 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jalan_universiti_drive_thru
+   
+2018-09-08 11:09:44,398 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jasin
+   
+2018-09-08 11:09:44,398 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jb_sentral
+   
+2018-09-08 11:09:44,399 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jbcc_komtar_jb
+   
+2018-09-08 11:09:44,399 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jementah
+   
+2018-09-08 11:09:44,399 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jengka
+   
+2018-09-08 11:09:44,399 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jenjarom
+   
+2018-09-08 11:09:44,400 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jerantut
+   
+2018-09-08 11:09:44,400 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jerteh
+   
+2018-09-08 11:09:44,401 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jitra
+   
+2018-09-08 11:09:44,401 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/johan_setia_drive_thru
+   
+2018-09-08 11:09:44,401 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/johor_jaya
+   
+2018-09-08 11:09:44,402 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/juru_auto_city
+   
+2018-09-08 11:09:44,402 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jusco_cheras_selatan
+   
+2018-09-08 11:09:44,402 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jusco_equine_park
+   
+2018-09-08 11:09:44,402 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jusco_permas_jaya
+   
+2018-09-08 11:09:44,403 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jusco_prima_kepong
+   
+2018-09-08 11:09:44,403 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jusco_seremban_2
+   
+2018-09-08 11:09:44,403 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/jusco_taman_universiti
+   
+2018-09-08 11:09:44,403 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/k-mart_muar
+   
+2018-09-08 11:09:44,403 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kajang_1
+   
+2018-09-08 11:09:44,403 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kajang_drive_thru
+   
+2018-09-08 11:09:44,404 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kampar
+   
+2018-09-08 11:09:44,404 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kampung_air
+   
+2018-09-08 11:09:44,404 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kamunting
+   
+2018-09-08 11:09:44,404 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kangar
+   
+2018-09-08 11:09:44,404 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kangar_2
+   
+2018-09-08 11:09:44,405 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kapar
+   
+2018-09-08 11:09:44,405 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kapit
+   
+2018-09-08 11:09:44,406 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/karak
+   
+2018-09-08 11:09:44,406 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kelana_jaya
+   
+2018-09-08 11:09:44,406 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kemaman
+   
+2018-09-08 11:09:44,406 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kemayan
+   
+2018-09-08 11:09:44,407 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/keningau
+   
+2018-09-08 11:09:44,408 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kepala_batas_2
+   
+2018-09-08 11:09:44,409 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kepong_drive_thru
+   
+2018-09-08 11:09:44,409 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kia
+   
+2018-09-08 11:09:44,409 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kidurong
+   
+2018-09-08 11:09:44,409 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kijal
+   
+2018-09-08 11:09:44,410 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kinabatangan
+   
+2018-09-08 11:09:44,410 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kinta_city
+   
+2018-09-08 11:09:44,410 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kis
+   
+2018-09-08 11:09:44,410 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kk_times_square
+   
+2018-09-08 11:09:44,410 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kkia_(t1)
+   
+2018-09-08 11:09:44,411 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kl_sentral
+   
+2018-09-08 11:09:44,411 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klang_1
+   
+2018-09-08 11:09:44,411 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klang_2
+   
+2018-09-08 11:09:44,411 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klang_utama
+   
+2018-09-08 11:09:44,411 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klebang
+   
+2018-09-08 11:09:44,412 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klia
+   
+2018-09-08 11:09:44,412 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klia2_arrival_hall
+   
+2018-09-08 11:09:44,412 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/klia2_depature_hall
+   
+2018-09-08 11:09:44,412 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kluang_1
+   
+2018-09-08 11:09:44,412 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kluang_2
+   
+2018-09-08 11:09:44,413 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kluang_mall_2
+   
+2018-09-08 11:09:44,413 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kluang_parade
+   
+2018-09-08 11:09:44,413 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kok_lanas_drive_thru
+   
+2018-09-08 11:09:44,413 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kok_lian
+   
+2018-09-08 11:09:44,414 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kompleks_karamunsing
+   
+2018-09-08 11:09:44,414 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kompleks_sungai_buloh
+   
+2018-09-08 11:09:44,414 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/komtar
+   
+2018-09-08 11:09:44,414 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_belud
+   
+2018-09-08 11:09:44,414 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_bharu
+   
+2018-09-08 11:09:44,415 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_bharu_2
+   
+2018-09-08 11:09:44,415 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_bharu_airport
+   
+2018-09-08 11:09:44,415 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_bharu_mall
+   
+2018-09-08 11:09:44,415 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_damansara_drive_thru
+   
+2018-09-08 11:09:44,416 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_marudu
+   
+2018-09-08 11:09:44,416 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_samarahan
+   
+2018-09-08 11:09:44,416 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_sentosa
+   
+2018-09-08 11:09:44,416 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_tinggi
+   
+2018-09-08 11:09:44,416 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ksl_city_mall_johor
+   
+2018-09-08 11:09:44,417 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuah_langkawi
+   
+2018-09-08 11:09:44,417 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_berang
+   
+2018-09-08 11:09:44,418 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_kangsar
+   
+2018-09-08 11:09:44,418 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_ketil_kedah
+   
+2018-09-08 11:09:44,418 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_klawang
+   
+2018-09-08 11:09:44,419 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_krai
+   
+2018-09-08 11:09:44,419 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_lipis
+   
+2018-09-08 11:09:44,419 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_nerang
+   
+2018-09-08 11:09:44,419 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_perlis
+   
+2018-09-08 11:09:44,419 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_pilah
+   
+2018-09-08 11:09:44,420 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_selangor
+   
+2018-09-08 11:09:44,420 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_terengganu_1
+   
+2018-09-08 11:09:44,420 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuala_terengganu_2
+   
+2018-09-08 11:09:44,420 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuantan_1
+   
+2018-09-08 11:09:44,420 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuantan_2
+   
+2018-09-08 11:09:44,421 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuantan_parade
+   
+2018-09-08 11:09:44,421 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kubang_kerian_drive_thru
+   
+2018-09-08 11:09:44,421 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuchai_lama_drive_thru
+   
+2018-09-08 11:09:44,421 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kuching_sentral
+   
+2018-09-08 11:09:44,422 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kudat
+   
+2018-09-08 11:09:44,422 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kulai
+   
+2018-09-08 11:09:44,422 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kulai_drive_thru
+   
+2018-09-08 11:09:44,423 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kulim_1
+   
+2018-09-08 11:09:44,424 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kunak
+   
+2018-09-08 11:09:44,424 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kundasang
+   
+2018-09-08 11:09:44,425 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/labis
+   
+2018-09-08 11:09:44,426 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/labuan_1
+   
+2018-09-08 11:09:44,426 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/lahad_datu
+   
+2018-09-08 11:09:44,426 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/landmark_kulim
+   
+2018-09-08 11:09:44,426 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/langkap
+   
+2018-09-08 11:09:44,427 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/langkawi
+   
+2018-09-08 11:09:44,427 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/larkin
+   
+2018-09-08 11:09:44,427 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/larut
+   
+2018-09-08 11:09:44,427 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/lawas
+   
+2018-09-08 11:09:44,427 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/legoland_jb_(medini_mall)
+   
+2018-09-08 11:09:44,428 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/lido
+   
+2018-09-08 11:09:44,428 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/limbang
+   
+2018-09-08 11:09:44,428 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/limbong_kapal_drive_thru_(alor_star_ii)
+   
+2018-09-08 11:09:44,428 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/lkc
+   
+2018-09-08 11:09:44,428 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/louis_junction
+   
+2018-09-08 11:09:44,429 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/low_yat_plaza
+   
+2018-09-08 11:09:44,429 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/lukut
+   
+2018-09-08 11:09:44,429 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/lumut
+   
+2018-09-08 11:09:44,429 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/machang_kelantan
+   
+2018-09-08 11:09:44,429 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mahkota_parade
+   
+2018-09-08 11:09:44,430 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/malim_jaya
+   
+2018-09-08 11:09:44,430 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mantin
+   
+2018-09-08 11:09:44,430 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/maran
+   
+2018-09-08 11:09:44,430 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/marang
+   
+2018-09-08 11:09:44,430 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/masjid_tanah
+   
+2018-09-08 11:09:44,431 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/matang
+   
+2018-09-08 11:09:44,431 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/medan_idaman
+   
+2018-09-08 11:09:44,431 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/medan_jaya
+   
+2018-09-08 11:09:44,431 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/medan_niaga_sungai_besi
+   
+2018-09-08 11:09:44,432 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/megamall_kuantan
+   
+2018-09-08 11:09:44,432 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/megamall_pinang
+   
+2018-09-08 11:09:44,432 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/melaka_2
+   
+2018-09-08 11:09:44,432 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/menara_jcorp
+   
+2018-09-08 11:09:44,433 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mentakab
+   
+2018-09-08 11:09:44,433 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mentakab_star_mall
+   
+2018-09-08 11:09:44,433 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/merlimau_drive_thru
+   
+2018-09-08 11:09:44,434 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mersing
+   
+2018-09-08 11:09:44,434 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/meru
+   
+2018-09-08 11:09:44,434 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/meru_raya_drive_thru_ipoh
+   
+2018-09-08 11:09:44,434 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/metrocity_drive_thru
+   
+2018-09-08 11:09:44,435 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mid_valley
+   
+2018-09-08 11:09:44,435 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/midlands
+   
+2018-09-08 11:09:44,435 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/miri_1
+   
+2018-09-08 11:09:44,435 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/muar_1
+   
+2018-09-08 11:09:44,436 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/muar_2
+   
+2018-09-08 11:09:44,436 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mukah
+   
+2018-09-08 11:09:44,436 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mutiara_rini_drive_thru
+   
+2018-09-08 11:09:44,436 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mydin_kuala_terengganu
+   
+2018-09-08 11:09:44,436 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/mydin_usj
+   
+2018-09-08 11:09:44,436 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/nibong_tebal
+   
+2018-09-08 11:09:44,437 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/nilai_square_drive_thru
+   
+2018-09-08 11:09:44,437 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/nu_sentral_kl
+   
+2018-09-08 11:09:44,437 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/nusa_bestari
+   
+2018-09-08 11:09:44,437 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/nusa_perintis_gelang_patah
+   
+2018-09-08 11:09:44,438 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ohb_ayer_keroh
+   
+2018-09-08 11:09:44,438 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ohb_sg_buloh
+   
+2018-09-08 11:09:44,438 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/one_borneo
+   
+2018-09-08 11:09:44,438 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/one_segamat
+   
+2018-09-08 11:09:44,439 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/padang_bandaran_keningau
+   
+2018-09-08 11:09:44,440 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/padang_besar
+   
+2018-09-08 11:09:44,441 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/padang_lallang
+   
+2018-09-08 11:09:44,442 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/padang_serai
+   
+2018-09-08 11:09:44,442 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/palm_beach_teluk_cempedak
+   
+2018-09-08 11:09:44,442 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/palm_mall_negeri_sembilan
+   
+2018-09-08 11:09:44,442 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pandamaran
+   
+2018-09-08 11:09:44,442 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pandan_indah
+   
+2018-09-08 11:09:44,443 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pantai_remis
+   
+2018-09-08 11:09:44,443 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/papar
+   
+2018-09-08 11:09:44,443 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/parit_buntar_2
+   
+2018-09-08 11:09:44,443 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/parit_raja
+   
+2018-09-08 11:09:44,443 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pasir_gudang
+   
+2018-09-08 11:09:44,444 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pasir_gudang_land_drive_thru
+   
+2018-09-08 11:09:44,444 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pasir_mas
+   
+2018-09-08 11:09:44,444 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pasir_puteh_kelantan
+   
+2018-09-08 11:09:44,444 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pasir_tumboh_drive_thru
+   
+2018-09-08 11:09:44,444 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pavilion_bundusan
+   
+2018-09-08 11:09:44,445 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pavillion
+   
+2018-09-08 11:09:44,445 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/paya_keladi_terengganu
+   
+2018-09-08 11:09:44,445 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pekan
+   
+2018-09-08 11:09:44,445 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pekan_bukit_pasir_muar
+   
+2018-09-08 11:09:44,446 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pekan_meru
+   
+2018-09-08 11:09:44,446 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pekan_nanas
+   
+2018-09-08 11:09:44,446 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pekan_simpang_kuala
+   
+2018-09-08 11:09:44,446 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pelangi_semenyih_drive_thru
+   
+2018-09-08 11:09:44,446 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/penang_international_airport
+   
+2018-09-08 11:09:44,447 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pendang_kedah
+   
+2018-09-08 11:09:44,447 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pengkalan_chepa_drive_thru
+   
+2018-09-08 11:09:44,447 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pengkalan_hulu_perak
+   
+2018-09-08 11:09:44,447 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/permas_jaya
+   
+2018-09-08 11:09:44,447 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pertama_complex
+   
+2018-09-08 11:09:44,448 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_alam_damai_drive_thru
+   
+2018-09-08 11:09:44,448 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_bentong_drive_thru
+   
+2018-09-08 11:09:44,448 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_besraya_drive_thru
+   
+2018-09-08 11:09:44,448 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_federal_highway
+   
+2018-09-08 11:09:44,448 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_kota_damansara_drive_thru
+   
+2018-09-08 11:09:44,448 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_metramac_cheras
+   
+2018-09-08 11:09:44,449 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_petaling_utama_drive_thru
+   
+2018-09-08 11:09:44,449 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_seberang_jaya_drive_thru
+   
+2018-09-08 11:09:44,449 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_section_15_shah_alam_drive_thru
+   
+2018-09-08 11:09:44,450 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_semabok_drive_thru
+   
+2018-09-08 11:09:44,450 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_skudai_drive_thru
+   
+2018-09-08 11:09:44,450 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_taman_tun_drive_thru_(ttdi)
+   
+2018-09-08 11:09:44,451 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_taman_university_drive_thru
+   
+2018-09-08 11:09:44,451 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_tpm_drive_thru
+   
+2018-09-08 11:09:44,452 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/petronas_usj_20_drive_thru
+   
+2018-09-08 11:09:44,452 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pkns_bangi
+   
+2018-09-08 11:09:44,452 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/plaza_angsana
+   
+2018-09-08 11:09:44,452 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/plaza_bm
+   
+2018-09-08 11:09:44,453 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/plaza_giant_melawati
+   
+2018-09-08 11:09:44,453 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/plaza_juta
+   
+2018-09-08 11:09:44,453 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/plaza_merdeka
+   
+2018-09-08 11:09:44,453 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pokok_sena
+   
+2018-09-08 11:09:44,453 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pontian
+   
+2018-09-08 11:09:44,453 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pontian_drive_thru
+   
+2018-09-08 11:09:44,454 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pontian_plaza
+   
+2018-09-08 11:09:44,454 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/port_dickson
+   
+2018-09-08 11:09:44,454 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/port_dickson_drive_thru
+   
+2018-09-08 11:09:44,454 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/port_klang
+   
+2018-09-08 11:09:44,454 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/port_klang_kiosk
+   
+2018-09-08 11:09:44,455 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/premiere_101
+   
+2018-09-08 11:09:44,455 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/prima_alor_gajah
+   
+2018-09-08 11:09:44,455 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/puchong
+   
+2018-09-08 11:09:44,456 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/puchong_prima
+   
+2018-09-08 11:09:44,456 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pudu2
+   
+2018-09-08 11:09:44,457 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/puduraya
+   
+2018-09-08 11:09:44,457 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pulau_pangkor
+   
+2018-09-08 11:09:44,458 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/puncak_alam
+   
+2018-09-08 11:09:44,458 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/pusat_bandar_rawang
+   
+2018-09-08 11:09:44,459 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/putatan_plaza
+   
+2018-09-08 11:09:44,459 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/puteri_wangsa_drive_thru
+   
+2018-09-08 11:09:44,459 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/queensbay_mall_penang
+   
+2018-09-08 11:09:44,459 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/quill_mall
+   
+2018-09-08 11:09:44,460 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/r2_avenue_sg_dua
+   
+2018-09-08 11:09:44,460 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/raja_laut
+   
+2018-09-08 11:09:44,460 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/raja_uda_butterworth
+   
+2018-09-08 11:09:44,460 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ranau
+   
+2018-09-08 11:09:44,460 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rantau
+   
+2018-09-08 11:09:44,461 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rantau_panjang_drive_thru
+   
+2018-09-08 11:09:44,461 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rasah_jaya
+   
+2018-09-08 11:09:44,461 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/raub
+   
+2018-09-08 11:09:44,461 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/raub_2
+   
+2018-09-08 11:09:44,462 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rawang_new_town
+   
+2018-09-08 11:09:44,462 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rembau
+   
+2018-09-08 11:09:44,462 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rengit
+   
+2018-09-08 11:09:44,462 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rock_road
+   
+2018-09-08 11:09:44,462 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rompin
+   
+2018-09-08 11:09:44,463 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rsa_gunung_semanggol
+   
+2018-09-08 11:09:44,463 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rsa_gurun
+   
+2018-09-08 11:09:44,463 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rsa_pagoh
+   
+2018-09-08 11:09:44,463 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rsa_seremban
+   
+2018-09-08 11:09:44,464 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rsa_tapah
+   
+2018-09-08 11:09:44,464 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/rtc_gopeng_drive_thru
+   
+2018-09-08 11:09:44,464 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sabak_bernam
+   
+2018-09-08 11:09:44,464 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/salak_tinggi
+   
+2018-09-08 11:09:44,464 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sandakan_giant
+   
+2018-09-08 11:09:44,464 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sandakan_harbour_square
+   
+2018-09-08 11:09:44,465 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sandakan_mile_4
+   
+2018-09-08 11:09:44,465 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sandakan_sibuga_jaya
+   
+2018-09-08 11:09:44,465 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/saratok
+   
+2018-09-08 11:09:44,465 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sarawak_plaza
+   
+2018-09-08 11:09:44,465 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sarikei
+   
+2018-09-08 11:09:44,466 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/satok
+   
+2018-09-08 11:09:44,466 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/saujana_putra
+   
+2018-09-08 11:09:44,466 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sea_park
+   
+2018-09-08 11:09:44,467 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/secondlink_jb
+   
+2018-09-08 11:09:44,467 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/section_14
+   
+2018-09-08 11:09:44,467 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/section_9_shah_alam
+   
+2018-09-08 11:09:44,468 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/segamat
+   
+2018-09-08 11:09:44,468 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/selayang
+   
+2018-09-08 11:09:44,468 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/selayang_mall
+   
+2018-09-08 11:09:44,468 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/semporna
+   
+2018-09-08 11:09:44,469 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/senai_airport
+   
+2018-09-08 11:09:44,469 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/senai_impian_johor_drive_thru
+   
+2018-09-08 11:09:44,470 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/senawang
+   
+2018-09-08 11:09:44,470 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sentul_raya
+   
+2018-09-08 11:09:44,470 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sepanggar
+   
+2018-09-08 11:09:44,470 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/seremban
+   
+2018-09-08 11:09:44,470 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/seremban_2_drive_thru
+   
+2018-09-08 11:09:44,471 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/seremban_drive_thru
+   
+2018-09-08 11:09:44,471 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/seri_alam_drive_thru
+   
+2018-09-08 11:09:44,471 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/seri_gelam_drive_thru_jb
+   
+2018-09-08 11:09:44,472 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/seri_kembangan
+   
+2018-09-08 11:09:44,472 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/serian_baru
+   
+2018-09-08 11:09:44,472 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/setia_alam_drive_thru
+   
+2018-09-08 11:09:44,472 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/setia_city_mall
+   
+2018-09-08 11:09:44,473 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/setia_tropika_drive_thru
+   
+2018-09-08 11:09:44,473 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/setiawangsa
+   
+2018-09-08 11:09:44,473 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/setiu
+   
+2018-09-08 11:09:44,474 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shah_alam_1
+   
+2018-09-08 11:09:44,474 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shah_alam_2
+   
+2018-09-08 11:09:44,474 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shah_alam_drive_thru_section_7
+   
+2018-09-08 11:09:44,475 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shah_alam_section_2_drive_thru
+   
+2018-09-08 11:09:44,475 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shah_alam_section_20
+   
+2018-09-08 11:09:44,475 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shell_nkve_drive_thru
+   
+2018-09-08 11:09:44,475 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/shell_simpang_renggam_drive_thru
+   
+2018-09-08 11:09:44,475 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sibu_1
+   
+2018-09-08 11:09:44,476 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sibu_bus_terminal
+   
+2018-09-08 11:09:44,476 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sibu_jaya
+   
+2018-09-08 11:09:44,476 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/siburan
+   
+2018-09-08 11:09:44,476 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sik_kedah
+   
+2018-09-08 11:09:44,476 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/silibin
+   
+2018-09-08 11:09:44,477 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/simpang_ampat
+   
+2018-09-08 11:09:44,477 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/simpang_taiping_drive_thru
+   
+2018-09-08 11:09:44,477 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sing_kwong
+   
+2018-09-08 11:09:44,477 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sipitang
+   
+2018-09-08 11:09:44,477 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sitiawan
+   
+2018-09-08 11:09:44,478 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/skudai_parade
+   
+2018-09-08 11:09:44,478 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/slim_river
+   
+2018-09-08 11:09:44,478 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sri_aman
+   
+2018-09-08 11:09:44,478 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sri_gombak
+   
+2018-09-08 11:09:44,478 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sri_iskandar_drive_thru
+   
+2018-09-08 11:09:44,479 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sri_jati_puchong_drive_thru
+   
+2018-09-08 11:09:44,479 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sri_serdang
+   
+2018-09-08 11:09:44,479 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sri_sinar_segambut
+   
+2018-09-08 11:09:44,480 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ss_15
+   
+2018-09-08 11:09:44,480 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/stadium_kota_bharu_drive_thru
+   
+2018-09-08 11:09:44,480 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/state
+   
+2018-09-08 11:09:44,480 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/stulang_laut_johor_drive_thru
+   
+2018-09-08 11:09:44,480 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/subang_2_shah_alam_drive_thru
+   
+2018-09-08 11:09:44,480 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sulaman_drive_thru
+   
+2018-09-08 11:09:44,481 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/summer_mall
+   
+2018-09-08 11:09:44,481 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/summit_city
+   
+2018-09-08 11:09:44,481 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_bakap
+   
+2018-09-08 11:09:44,481 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_besar
+   
+2018-09-08 11:09:44,481 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_besi
+   
+2018-09-08 11:09:44,482 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_besi_toll_drive_thru
+   
+2018-09-08 11:09:44,482 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_buloh_1
+   
+2018-09-08 11:09:44,482 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_buloh_2
+   
+2018-09-08 11:09:44,482 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_chua
+   
+2018-09-08 11:09:44,482 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_dua
+   
+2018-09-08 11:09:44,483 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_pelek
+   
+2018-09-08 11:09:44,483 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_petani_1
+   
+2018-09-08 11:09:44,483 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_petani_drive_thru_(bandar_puteri)
+   
+2018-09-08 11:09:44,484 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_siput
+   
+2018-09-08 11:09:44,484 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_udang_melaka
+   
+2018-09-08 11:09:44,485 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sungai_wang
+   
+2018-09-08 11:09:44,485 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sunway_carnival_mall
+   
+2018-09-08 11:09:44,485 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sunway_metro_/_bandar_sunway
+   
+2018-09-08 11:09:44,485 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sunway_pyramid
+   
+2018-09-08 11:09:44,486 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/suria_sabah
+   
+2018-09-08 11:09:44,486 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/sutera_mall_skudai
+   
+2018-09-08 11:09:44,486 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tabuan_jaya
+   
+2018-09-08 11:09:44,486 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taipan_inanam
+   
+2018-09-08 11:09:44,487 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taiping
+   
+2018-09-08 11:09:44,487 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_bukit_minyak
+   
+2018-09-08 11:09:44,487 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_bukit_tiram_3
+   
+2018-09-08 11:09:44,487 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_cahaya_masai
+   
+2018-09-08 11:09:44,487 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_cempaka_(axis_atrium)
+   
+2018-09-08 11:09:44,487 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_connaught
+   
+2018-09-08 11:09:44,488 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_danau_desa
+   
+2018-09-08 11:09:44,488 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_daya
+   
+2018-09-08 11:09:44,489 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_gaya
+   
+2018-09-08 11:09:44,489 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_lavender_kuala_kangsar
+   
+2018-09-08 11:09:44,489 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_maluri
+   
+2018-09-08 11:09:44,489 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_melawati
+   
+2018-09-08 11:09:44,490 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_molek
+   
+2018-09-08 11:09:44,490 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_perling_drive_thru
+   
+2018-09-08 11:09:44,490 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_putra
+   
+2018-09-08 11:09:44,491 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_rishah_farlim_ipoh
+   
+2018-09-08 11:09:44,491 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_sejati_indah
+   
+2018-09-08 11:09:44,491 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_selera_drive_thru
+   
+2018-09-08 11:09:44,491 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_semarak
+   
+2018-09-08 11:09:44,491 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_sentosa_drive_thru
+   
+2018-09-08 11:09:44,492 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_setia_rawang
+   
+2018-09-08 11:09:44,492 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_sri_manja_square_2
+   
+2018-09-08 11:09:44,492 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_sri_muda
+   
+2018-09-08 11:09:44,492 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_taming_jaya
+   
+2018-09-08 11:09:44,493 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_tas_kuantan
+   
+2018-09-08 11:09:44,493 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/taman_wawasan
+   
+2018-09-08 11:09:44,493 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tampin_square
+   
+2018-09-08 11:09:44,493 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanah_merah
+   
+2018-09-08 11:09:44,493 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanahmas
+   
+2018-09-08 11:09:44,494 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tangkak
+   
+2018-09-08 11:09:44,494 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanjung_aru
+   
+2018-09-08 11:09:44,494 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanjung_karang
+   
+2018-09-08 11:09:44,494 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanjung_leman_kiosk
+   
+2018-09-08 11:09:44,494 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanjung_malim
+   
+2018-09-08 11:09:44,495 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tanjung_tokong_drive_thru
+   
+2018-09-08 11:09:44,495 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tapah
+   
+2018-09-08 11:09:44,495 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tasek_ipoh_drive_thru
+   
+2018-09-08 11:09:44,495 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tasik_prima_puchong_drive_thru
+   
+2018-09-08 11:09:44,496 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tawau_giant
+   
+2018-09-08 11:09:44,496 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/teluk_intan
+   
+2018-09-08 11:09:44,496 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/teluk_intan_drive_thru
+   
+2018-09-08 11:09:44,496 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/teluk_panglima_garang
+   
+2018-09-08 11:09:44,496 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/teluk_pulai
+   
+2018-09-08 11:09:44,496 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/telupid
+   
+2018-09-08 11:09:44,497 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/temerloh
+   
+2018-09-08 11:09:44,497 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/temerloh_drive_thru
+   
+2018-09-08 11:09:44,497 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tenom
+   
+2018-09-08 11:09:44,497 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/terminal_1_seremban
+   
+2018-09-08 11:09:44,498 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/terminal_2
+   
+2018-09-08 11:09:44,498 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/terminal_larkin_drive_thru
+   
+2018-09-08 11:09:44,498 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_alor_setar_(mergong)
+   
+2018-09-08 11:09:44,498 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_ampang
+   
+2018-09-08 11:09:44,498 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_ara_damansara
+   
+2018-09-08 11:09:44,499 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_bandar_cheng
+   
+2018-09-08 11:09:44,499 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_bukit_mertajam
+   
+2018-09-08 11:09:44,499 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_bukit_tinggi_klang
+   
+2018-09-08 11:09:44,499 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_damansara
+   
+2018-09-08 11:09:44,500 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_extra_plentong
+   
+2018-09-08 11:09:44,500 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_extra_prai
+   
+2018-09-08 11:09:44,501 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_extra_selayang
+   
+2018-09-08 11:09:44,501 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_ipoh
+   
+2018-09-08 11:09:44,501 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_jelutong_penang
+   
+2018-09-08 11:09:44,502 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kajang
+   
+2018-09-08 11:09:44,502 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kampar
+   
+2018-09-08 11:09:44,503 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kepong
+   
+2018-09-08 11:09:44,503 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kota_bharu
+   
+2018-09-08 11:09:44,503 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kuala_selangor
+   
+2018-09-08 11:09:44,504 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kulai
+   
+2018-09-08 11:09:44,504 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_kulim
+   
+2018-09-08 11:09:44,505 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_manjung
+   
+2018-09-08 11:09:44,505 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_melaka
+   
+2018-09-08 11:09:44,505 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_nilai
+   
+2018-09-08 11:09:44,505 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_puchong
+   
+2018-09-08 11:09:44,506 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_rawang
+   
+2018-09-08 11:09:44,506 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_semenyih
+   
+2018-09-08 11:09:44,506 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_seremban_2
+   
+2018-09-08 11:09:44,507 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_seri_alam_jb
+   
+2018-09-08 11:09:44,507 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_sg_petani
+   
+2018-09-08 11:09:44,507 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_sg_petani_mutiara_plaza
+   
+2018-09-08 11:09:44,508 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_shah_alam
+   
+2018-09-08 11:09:44,508 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_station_18_pasir_putih
+   
+2018-09-08 11:09:44,508 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_taiping
+   
+2018-09-08 11:09:44,508 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tesco_tanjung_pinang
+   
+2018-09-08 11:09:44,509 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/the_curve_damansara
+   
+2018-09-08 11:09:44,509 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/the_mines
+   
+2018-09-08 11:09:44,509 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/the_spring
+   
+2018-09-08 11:09:44,509 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/the_store_semenyih_(fajar)
+   
+2018-09-08 11:09:44,509 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/times_square
+   
+2018-09-08 11:09:44,510 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/triang_drive_thru
+   
+2018-09-08 11:09:44,510 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tuanku_haminah_sg_petani
+   
+2018-09-08 11:09:44,510 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tuaran
+   
+2018-09-08 11:09:44,510 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tumpat
+   
+2018-09-08 11:09:44,510 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tun_aminah
+   
+2018-09-08 11:09:44,511 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/usj_taipan
+   
+2018-09-08 11:09:44,511 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/utama_jaya_labuan_3
+   
+2018-09-08 11:09:44,511 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/vantage_point_jelutong
+   
+2018-09-08 11:09:44,511 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/viva_jalan_ipoh
+   
+2018-09-08 11:09:44,512 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/vsq_petaling_jaya
+   
+2018-09-08 11:09:44,512 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/w._sanyan
+   
+2018-09-08 11:09:44,512 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wangsa_maju
+   
+2018-09-08 11:09:44,512 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wangsa_maju_drive_thru
+   
+2018-09-08 11:09:44,512 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/waterfront
+   
+2018-09-08 11:09:44,513 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wawasan_plaza
+   
+2018-09-08 11:09:44,513 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wisma_gerakan
+   
+2018-09-08 11:09:44,513 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wisma_hopoh
+   
+2018-09-08 11:09:44,513 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wisma_hualang
+   
+2018-09-08 11:09:44,513 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/wisma_merdeka
+   
+2018-09-08 11:09:44,514 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/yong_peng
+   
+2018-09-08 11:09:44,514 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/5_barat
+   
+2018-09-08 11:09:44,514 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_au2_setiawangsa
+   
+2018-09-08 11:09:44,514 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_bukit_indah_johor
+   
+2018-09-08 11:09:44,514 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_bukit_tinggi
+   
+2018-09-08 11:09:44,515 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_kulaijaya
+   
+2018-09-08 11:09:44,515 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_mahkota_cheras
+   
+2018-09-08 11:09:44,515 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_mall_bukit_mertajam
+   
+2018-09-08 11:09:44,515 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_mall_klebang
+   
+2018-09-08 11:09:44,515 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_mall_kota_bharu
+   
+2018-09-08 11:09:44,516 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_melaka
+   
+2018-09-08 11:09:44,516 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_pasir_putih_perak
+   
+2018-09-08 11:09:44,516 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_seri_manjung
+   
+2018-09-08 11:09:44,517 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_shah_alam
+   
+2018-09-08 11:09:44,517 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aeon_taiping
+   
+2018-09-08 11:09:44,518 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alam_megah
+   
+2018-09-08 11:09:44,518 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alam_sentral
+   
+2018-09-08 11:09:44,518 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alamanda_putrajaya
+   
+2018-09-08 11:09:44,519 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alma_bukit_mertajam
+   
+2018-09-08 11:09:44,519 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alor_mengkudu_drive_thru
+   
+2018-09-08 11:09:44,519 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alor_setar_3_jalan_putra
+   
+2018-09-08 11:09:44,520 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alor_setar_drive_thru_(alor_setar_1)
+   
+2018-09-08 11:09:44,520 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/alor_star_mall
+   
+2018-09-08 11:09:44,520 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/aman_central_alor_setar
+   
+2018-09-08 11:09:44,521 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/amanputra_kepala_batas
+   
+2018-09-08 11:09:44,521 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ampang_2
+   
+2018-09-08 11:09:44,522 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ampang_point
+   
+2018-09-08 11:09:44,522 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/arau
+   
+2018-09-08 11:09:44,523 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/atria_damansara
+   
+2018-09-08 11:09:44,524 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ayer_keroh_drive_thru
+   
+2018-09-08 11:09:44,524 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ayer_keroh-jusco
+   
+2018-09-08 11:09:44,525 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/ayer_tawar
+   
+2018-09-08 11:09:44,525 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bachok_drive_thru
+   
+2018-09-08 11:09:44,525 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bagan_serai
+   
+2018-09-08 11:09:44,525 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bahau
+   
+2018-09-08 11:09:44,526 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bako_drive_thru
+   
+2018-09-08 11:09:44,526 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/balakong
+   
+2018-09-08 11:09:44,526 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/balik_pulau
+   
+2018-09-08 11:09:44,526 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/baling
+   
+2018-09-08 11:09:44,526 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/balok_kuantan
+   
+2018-09-08 11:09:44,527 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/balung_tawau
+   
+2018-09-08 11:09:44,527 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bandar_baru_ayer_hitam_johor
+   
+2018-09-08 11:09:44,527 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/eden_parade
+   
+2018-09-08 11:09:44,527 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kota_kemuning
+   
+2018-09-08 11:09:44,527 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/denai_alam
+   
+2018-09-08 11:09:44,528 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bukit_goh
+   
+2018-09-08 11:09:44,528 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/tabuan_tranquility_drive_thru
+   
+2018-09-08 11:09:44,528 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/guar_chempedak
+   
+2018-09-08 11:09:44,528 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/design_village
+   
+2018-09-08 11:09:44,529 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/bhp_kampar_drive_thru
+   
+2018-09-08 11:09:44,529 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_my_town
+   
+2018-09-08 11:09:44,529 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_my_town
+   
+2018-09-08 11:09:44,529 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_aman_jaya
+   
+2018-09-08 11:09:44,529 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_jeli
+   
+2018-09-08 11:09:44,530 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_bandar_pinggiran_putra
+   
+2018-09-08 11:09:44,530 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_simpang_perdana
+   
+2018-09-08 11:09:44,530 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_serambi_pekan
+   
+2018-09-08 11:09:44,530 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_kuala_samarahan
+   
+2018-09-08 11:09:44,530 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_delivery_bangsar
+   
+2018-09-08 11:09:44,531 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_sunway_mentari
+   
+2018-09-08 11:09:44,531 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_gurney_mall
+   
+2018-09-08 11:09:44,531 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_petron_kampung_raja
+   
+2018-09-08 11:09:44,531 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_paradigm_mall_pj
+   
+2018-09-08 11:09:44,532 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_jalan_kapar
+   
+2018-09-08 11:09:44,532 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_parit_raja
+   
+2018-09-08 11:09:44,532 [1] INFO  logInstance logInstancename 
+  Getting https://kfc.com.my/find-a-kfc/kfc_sendayan_dt
+   
+2018-09-08 11:13:04,047 [1] INFO  logInstance logInstancename 
+  Crawling 肯德基 done.
+   
